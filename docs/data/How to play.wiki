@@ -1,0 +1,160 @@
+{{Peak game}} is a game that is mostly learned through experimentation and trial and error. The players are nudged in certain directions by the {{item|Guidebook}} found at the start of any run at the [[Crash Site]], and in bits and pieces by collecting [[Scoutmaster Myres]]' diary [[Scroll#Torn pages|pages]].
+
+When starting a new game lobby from the main menu, players are dropped into the [[Airport]] where they can [[Customization|customize]] their individual [[Scout]] appearances, test out the game [[:Category:Mechanics|mechanics]] and physics by climbing a [[Airport#Climbing Wall|rock wall]], and then start their adventure by [[Airport#Kiosks|boarding]] the plane. Starting a new run allows the player to select the [[Ascents|difficulty level]] by pressing the "up" and "down" buttons in the boarding pass UI.
+
+The game can be played solo or with friends. By default, {{Peak game}} supports up to 4 people in a given lobby, but this limit can be extended with the help of [[Modifications|modifications]] such as [https://thunderstore.io/c/peak/p/glarmer/PEAK_Unlimited/ PEAK Unlimited].
+
+The run begins when the plane you've just boarded [[Crash Site|crashes]] into the [[Shore]]. Your objective is to climb the [[Island|mountain]] by moving through several [[biomes]] and finally reaching the [[Peak (biome)|Peak]] of the mountain. You'll encounter many hazards on your way up, but you will also find useful [[Equipment|equipment]] that will help you on your journey. Keep in mind that the island [[Island|changes every 24 hours]] for all players.
+
+== Controls ==
+The controls can also be viewed in-game on the pause screen ({{Key|Keyboard|Escape}}). As of 1.30.a, you can change control bindings.
+{| class="wikitable"
+ ! Mouse and Keyboard
+ ! Action
+|-
+ | {{Key|keyboard|w}}{{Key|keyboard|a}}{{Key|keyboard|s}}{{Key|keyboard|d}}
+ | Move
+|-
+ | {{Key|mouse|move}}
+ | Aim
+|-
+ | {{Key|mouse|left}}
+ | Climb
+|-
+ | {{Key|mouse|right}}
+ | Helping Hand
+|-
+ | {{Key|keyboard|e}}
+ | Interact
+|-
+ | {{Key|keyboard|q}}
+ | Drop / Throw (Hold)
+|-
+ | {{Key|keyboard|space}}
+ | Jump
+|-
+ | {{Key|keyboard|ctrl}}
+ | Crouch
+|-
+ | {{Key|keyboard|shift}}
+ | Sprint / Leap (While Climbing)
+|-
+ | {{Key|mouse|scroll}}
+ | Ping Location
+|-
+ | {{Key|keyboard|r}}
+ | Emote
+|-
+ | {{Key|keyboard|v}}
+ | Push to talk / Push to mute (depending on the settings)
+|}
+== Basic gameplay ==
+=== Climbing & Stamina ===
+----
+{{For|more info about stamina|Stamina}}
+[[File:Scouts helping hand.png|thumb|right|upright|x220px|Extend a helping hand to your friends by pressing {{Key|Mouse|Right}}.]]
+In order to reach the [[Peak (biome)|Peak]] and beat the game, you will need to climb the mountain ahead of you. Climbing is accomplished by standing close to a cliff, holding down {{Key|Mouse|Left}} '''Left Click''', and moving with the movement keys. Pretty much any surface in {{Peak game}} is climbable with rare exceptions.
+
+Climbing consumes your ''[[Stamina|stamina]]''. When you run out of stamina, you can no longer climb until it regenerates back. If you run out of stamina mid-climb, you will begin to rapidly slide down and fall, which can be fatal. Performing certain actions in {{Peak game}} rewards you with {{Bonus}}, which is only consumed when you run out of your main stamina.
+
+You can press {{Key|Keyboard|Shift}} '''Left Shift''' to perform a lunge and give yourself a small vertical boost at the cost of some stamina. If your hands are empty, you can also press {{Key|Mouse|Right}} '''Right Click''' to extend a helping hand to your friends, which will pull them to you once they're close enough (note that this only works if they're climbing and you're above them). Be careful, however, as this will also pull you slightly towards them!
+
+Another thing you can do with your friends to help each other climb is to crouch, let a friend stand on top of you, and then jump. This will give them a vertical boost without consuming their stamina. Your friend can then extend their hand and help you climb up too.
+
+You can also hold {{Key|Keyboard|Shift}} '''Left Shift''' to sprint while not climbing, but keep in mind that this consumes your stamina.
+
+{{Clear}}
+
+=== Status effects ===
+----
+{{Main|Stamina bar}}
+Over the course of your climb you will have many [[Stamina bar|status effects]] accumulated in your stamina bar, the majority of which deplete over time:
+* {{Weight}} is gained when carrying [[Items|items]] or other [[Scout|Scouts]] and '''does not deplete over time'''. It can be removed by throwing out (or consuming) carried stuff or mitigated by carrying items with negative weight, such as {{Item|Anti-Rope}}, {{Item|Anti-Rope Cannon}}, {{Item|Balloon}}, and {{Item|Balloon Bunch}}.
+* {{Hunger}} is '''gained naturally over time'''. It can be removed by eating [[Food|food]].
+* {{Injury}} is gained when your [[Scout]] takes damage from falls or other sources and '''does not deplete over time'''. It must be removed with a healing item, such as {{Item|Bandages}}, {{Item|First Aid Kit}}, {{Item|Medicinal Root}} and {{Item|Cure-All}}.
+[[File:Scouts revive.png|thumb|right|240px|Revive unconscious friends with {{Item|First Aid Kit}}s and other healing items.]]
+* {{Poison}} is gained by touching poisonous objects or eating poisonous [[Food|food]]. '''It does deplete after some time''', but it's better to be removed with some healing items, such as {{Item|Antidote}}, {{Item|First Aid Kit}}, {{Item|Medicinal Root}} and {{Item|Cure-All}}. Do not underestimate its effects, as there are situations in which you can get a great deal of poison inflicted on you if you're not careful.
+* {{Cold}} is gained during [[Blizzard|blizzards]] in the [[Alpine]], during nights on [[Ascent 5]] or higher, or when the [[Fog]] finally reaches you.
+* {{Heat}} is gained by being burned (e.g. on a [[Campfire|campfire]] or by a {{Item|Scorchberry}}) or by being in direct sunlight in the [[Mesa]].
+* {{Thorns}} is gained by touching various [[Cacti|cacti]] in the [[Mesa]].
+* {{Drowsy}} is gained after consuming certain items ({{Item|Big Lollipop}}, {{Item|Energy Drink}}, {{Item|Napberry}}) or being hit with a {{Item|Blowgun}}.
+* {{Curse}} is gained after being revived either by an [[Ancient Statue]] or a {{Item|Scout Effigy}}, or upon being targeted by the {{Item|Book of Bones}} and '''does not deplete over time'''. It can only be removed by drinking the {{Item|Cure-All}} or using the {{Item|Pandora's Lunchbox}} (the latter of which is not recommended unless in a dire situation).
+* {{Spores}} is gained by consuming [[Shroomberry|Shroomberries]], standing inside a [[Roots#Mushroom Spore Clouds|spore cloud]] in the [[Roots]], or by being bitten by a [[zombie]]. '''It does deplete after some time, UNLESS you have been bitten by a zombie, in which case it will continue to increase until cured.'''  It takes the longest to go away on its own out of any status effect (unless playing in multiplayer, where{{Thorns}} takes the longest), so avoiding it should be of high priority.
+
+These effects reduce the amount of stamina you have. If you run out of main stamina completely, you will ''pass out, unless you were targeted by the {{Item|Book of Bones}}''. While you are passed out, you will be unable to move or use items, and your friends will be unable to hear you. There is a certain amount of time during which you are still alive and can be revived (either by waiting for temporary status effects to wear off or by your friends). Once this time is over, you will become a [[Ghost|ghost]] until somebody resurrects you at an [[Ancient Statue]] or by using the {{Item|Scout Effigy}}. Unconscious [[Scout|Scouts]] can also be carried around, which temporarily stops the death timer.
+
+=== Inventory & [[Backpack]] ===
+----
+Items that you pick up by looking at them and pressing the interact key ({{Key|Keyboard|E}}) are stored into your '''inventory''' slots. You can select any of these three slots by pressing {{Key|Keyboard|1}}, {{Key|Keyboard|2}}, and {{Key|Keyboard|3}}, respectively. Pressing the corresponding key again while the slot is already selected will deselect it and empty your hands. Keep in mind that you cannot climb walls if you're holding anything.
+
+Picking up items with a full inventory is still possible as they will be put into your hands, but you will be unable to store them until you make some room. To drop the current item, simply press {{Key|Keyboard|Q}}. Alternatively, you can hold down {{Key|Keyboard|Q}} and charge a throw, which you can perform by releasing the key.
+
+Although you cannot change the amount of inventory slots that you have, you can use the {{Item|Backpack}} to extend your storage. The backpack is a special item that goes into its own, special fourth slot (selected by pressing {{Key|Keyboard|4}}) and allows you to carry up to 4 additional items. One backpack is always available at the [[Crash Site]], while more can always be found at the [[Campfire|campfire]].
+
+To use the backpack yourself, place it on the ground, look at it, and hold the interact key ({{Key|Keyboard|E}}). A radial menu with four empty slots will appear. When you are holding an item, hovering over an empty slot and releasing the key will store the held item in the selected slot of the backpack. To retrieve a stored item, open the backpack menu again and select the corresponding slot. To equip the backpack, select the bottom slot with an icon of a {{Item|Backpack}}.
+
+Your friends can also use your backpack while you're wearing it without you first having to take it off.
+
+=== Communication ===
+----
+{{For|more information about emotes|Emotes}}
+[[File:Emote wheel.png|thumb|right|180px|The Emote Wheel]]
+Communication in {{Peak game}} is essential if you're playing with a group. The game features a '''proximity voice chat''' with a simulation of echo and the [[wikipedia:Doppler_effect|Doppler effect]]. By default, it is activated automatically by your voice, but can also be switched to "Push to Talk" or "Push to Mute" in the settings.
+
+Another useful communication tool in the game is the '''Ping''' system. {{Key|Mouse|Scroll}} '''Middle Click''' will show a pointing hand at the point you're currently looking at to all players.
+
+You can also '''Emote''' by opening the ''emote wheel'' with {{Key|Keyboard|R}} and selecting the desired emote. Be careful with the "Play dead" emote, however, as you may fall from a great height because of it!
+
+{{Clear}}
+
+=== Ascents ===
+----
+{{Main|Ascents}}
+[[Ascents]] are the difficulty system of {{Peak game}}. Two Ascents are available by default: ''[[Tenderfoot]]'' and ''[[Ascents|Peak]]''. ''Peak'' is the standard difficulty with no additional modifier, while ''Tenderfoot'' is intended to provide an easier experience. After beating the game at least once on a given Ascent, the next Ascent is unlocked (with [[Ascent 1]] being the first one), up until [[Ascent 7]], which is the last ascent as of [[1.25.a|Patch 1.25.a]].
+
+Do not be afraid of trying a lower Ascent if you're having trouble beating the game. Randomly generated maps can also introduce a great deal of additional trouble to your playthrough, so feel free to start on a lower difficulty and eventually make your way to [[Ascent 7]]!
+
+=== Badges ===
+----
+{{Main|Badges}}
+You can earn [[Badges]] for completing certain in-game actions. Badges serve as the game's achievement system and are synchronized with your Steam achievements. Earning them unlocks new [[Passport|cosmetics]] for your [[Scout]].
+
+Badges can be earned on all Ascents including [[Tenderfoot]], which can make things a lot easier. Most of the badges are obtainable in solo, although some of them can only be earned with the help of other players.
+
+== Challenges & hazards ==
+The difficulty of the [[Island]] depends on multiple factors:
+* Your own skill level
+* The skill level of your friends
+* The generation of the [[Island|map]]
+* Which [[Ascents|Ascent]] you're playing on
+* The loot from [[Luggage|luggage]]
+* How far away you are from your friends
+* How fast you're moving up the mountain
+* and many more.
+The game provides enough tools to combat all these challenges, so don't feel discouraged to try again if you happen to fail!
+
+== Tips & Tricks ==
+[[File:Foothold on steep slope.png|thumb|right|240px|A steep foothold in [[Alpine]], the depicted player holding the {{Key|keyboard|a}} and {{Key|keyboard|s}} keys.]]
+* Always plan your path ahead of time. Finding a good path is a skill that has to be trained. You can usually tell what parts of the terrain can be stood on (the [[Shore]] will have sand, the [[Tropics]] will have grass, etc.), so use that information to your advantage.
+** Even the smallest and steepest kinds of walkable terrain can be stood on, so long as you continuously hold down the directions opposite where you are bound to slip.
+* [[Cooking]] your food is really useful, since it doubles the amount of {{Hunger}} restored and gives even more {{Bonus}}.
+* If you're playing in a group, try to stick together, as the game gives a lot of tools for helping each other. However, if the situation is dire, don't try to be a hero and save your fellow [[Scout]]s if the risk far outweighs the benefit. After all, they can always be resurrected as long as you make it out alive (unless you're playing on [[Ascent 7]], in which case trying to stay alive for the entire run ''is'' the added challenge).
+** It can be useful to send one [[Scout]] on a route to see if it's possible, and then save them in case something goes wrong (which it often does) and they fall.
+* Use the quirks of map generation to your advantage. There are usually many little walkable surfaces that you can stand on and regenerate your stamina in the middle of a route. Some of these stops may require you to walk in place into the wall not to fall down, but stamina regenerates even while walking, so it's not an issue.
+* The {{Item|Rope Spool}} can be very useful for helping your friends reach higher places.
+* Sometimes eating [[Food|food]] solely for its {{Bonus}} can be necessary for finishing an otherwise impossible climb.
+* The [[Fog]] is usually much less scary than the game makes it out to be. As long as you're moving at a somewhat steady pace, you should be okay. It's often possible to avoid seeing it at all during the entire run if your route is particularly good.
+* Fatal {{Injury|label=fall damage}} can be clutched by quickly using the {{Item|Pandora's Lunchbox}} before passing out. This will randomize your status effects and have a good chance of restoring your health, or at least trading permanent [[Injury]] for some less permanent [[effects]].
+
+== See also ==
+* [[Stamina bar]]
+* [[Food]]
+* [[Equipment]]
+* [[Biomes]]
+* [[Island]]
+* [[Badges]]
+* [[Ascents]]
+* [[:Category:Mechanics]]
+* [[:Category:Guides]]
+
+[[Category:Guides]]

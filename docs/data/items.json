@@ -1,0 +1,1160 @@
+﻿{
+  "ExportedAt": "2025-11-10T00:05:19.872042+08:00",
+  "ItemInfos": [
+    {
+      "Id": 0,
+      "Icon": "Assets\\Airplane Food.png",
+      "GameName": "Airplane Food",
+      "Name": "飞机餐",
+      "Description": "额外体力 +40\n饥饿 -40\n\n重量 5"
+    },
+    {
+      "Id": 1,
+      "Icon": "Assets\\Anti-Rope Spool.png",
+      "GameName": "Anti-Rope Spool",
+      "Name": "反重绳索",
+      "Description": "放置一根向上漂浮的绳子\n长度从0.75米到最长10米，共15米\n\n警告：丢弃会飞走\n\n重量 -2.5\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 2,
+      "Icon": "Assets\\Antidote.png",
+      "GameName": "Antidote",
+      "Name": "解毒剂",
+      "Description": "中毒 -35\n热量 -10\n\n扔出可砸开\n\n重量 2.5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 3,
+      "Icon": "Assets\\Apple Berry Green.png",
+      "GameName": "Apple Berry Green",
+      "Name": "绿脆莓",
+      "Description": "饥饿 -5\n在2秒后，每秒中毒 +2，持续4秒\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 4,
+      "Icon": "Assets\\Apple Berry Red.png",
+      "GameName": "Apple Berry Red",
+      "Name": "红脆莓",
+      "Description": "饥饿 -5\n\n重量 2.5"
+    },
+    {
+      "Id": 5,
+      "Icon": "Assets\\Apple Berry Yellow.png",
+      "GameName": "Apple Berry Yellow",
+      "Name": "黄脆莓",
+      "Description": "饥饿 -5\n额外体力 +10\n\n重量 2.5"
+    },
+    {
+      "Id": 6,
+      "Icon": "Assets\\Backpack.png",
+      "GameName": "Backpack",
+      "Name": "背包",
+      "Description": "丢下以放入物品\n\n重量 0"
+    },
+    {
+      "Id": 7,
+      "Icon": "Assets\\Bandages.png",
+      "GameName": "Bandages",
+      "Name": "绷带",
+      "Description": "受伤 -30\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 8,
+      "Icon": "Assets\\Beehive.png",
+      "GameName": "Beehive",
+      "Name": "蜂巢",
+      "Description": "扔出可砸开\n\n重量 10"
+    },
+    {
+      "Id": 9,
+      "Icon": "Assets\\Berrynana Blue.png",
+      "GameName": "Berrynana Blue",
+      "Name": "蓝莓蕉",
+      "Description": "饥饿 -30\n\n食用后获得莓蕉皮\n重量 2.5"
+    },
+    {
+      "Id": 10,
+      "Icon": "Assets\\Berrynana Brown.png",
+      "GameName": "Berrynana Brown",
+      "Name": "棕莓蕉",
+      "Description": "饥饿 -15\n额外体力 +10\n\n食用后获得莓蕉皮\n重量 2.5"
+    },
+    {
+      "Id": 11,
+      "Icon": "Assets\\Berrynana Pink.png",
+      "GameName": "Berrynana Pink",
+      "Name": "粉莓蕉",
+      "Description": "饥饿 -15\n在2秒后，每秒中毒 +2，持续6秒\n\n食用后获得莓蕉皮\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 12,
+      "Icon": "Assets\\Berrynana Yellow.png",
+      "GameName": "Berrynana Yellow",
+      "Name": "黄莓蕉",
+      "Description": "饥饿 -15\n\n食用后获得莓蕉皮\n重量 2.5"
+    },
+    {
+      "Id": 13,
+      "Icon": "Assets\\BingBong.png",
+      "GameName": "BingBong",
+      "Name": "宾邦",
+      "Description": "Bingbong航空吉祥物\n\n重量 5\n可烹饪\n"
+    },
+    {
+      "Id": 14,
+      "Icon": "Assets\\Binoculars.png",
+      "GameName": "Binoculars",
+      "Name": "望远镜",
+      "Description": "使用可以看得更远\n\n重量 0"
+    },
+    {
+      "Id": 15,
+      "Icon": "Assets\\Bugle.png",
+      "GameName": "Bugle",
+      "Name": "喇叭",
+      "Description": "\n重量 0\n可烹饪\n"
+    },
+    {
+      "Id": 16,
+      "Icon": "Assets\\Bugle_Magic.png",
+      "GameName": "Bugle_Magic",
+      "Name": "友谊喇叭",
+      "Description": "吹奏时，\n附近玩家会获得：获得0.5秒无限体力\n\n重量 2.5"
+    },
+    {
+      "Id": 17,
+      "Icon": "Assets\\ChainShooter.png",
+      "GameName": "ChainShooter",
+      "Name": "锁链发射器",
+      "Description": "射出链条，将你的位置与目标连接，最远可达30米\n\n重量 2.5\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 18,
+      "Icon": "Assets\\ClimbingSpike.png",
+      "GameName": "ClimbingSpike",
+      "Name": "岩钉",
+      "Description": "放置后抓住可恢复体力\n\n重量 2.5\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 19,
+      "Icon": "Assets\\Clusterberry Black.png",
+      "GameName": "Clusterberry Black",
+      "Name": "黑葚莓",
+      "Description": "饥饿 -20\n\n重量 2.5"
+    },
+    {
+      "Id": 20,
+      "Icon": "Assets\\Clusterberry Red.png",
+      "GameName": "Clusterberry Red",
+      "Name": "红葚莓",
+      "Description": "饥饿 -10\n受伤 -20\n\n重量 2.5"
+    },
+    {
+      "Id": 21,
+      "Icon": "Assets\\Clusterberry Yellow.png",
+      "GameName": "Clusterberry Yellow",
+      "Name": "黄葚莓",
+      "Description": "饥饿 -10\n额外体力 +10\n\n重量 2.5"
+    },
+    {
+      "Id": 22,
+      "Icon": "Assets\\Clusterberry_UNUSED.png",
+      "GameName": "Clusterberry_UNUSED",
+      "Name": "青葚莓",
+      "Description": "饥饿 -10\n中毒 -30\n\n重量 2.5"
+    },
+    {
+      "Id": 23,
+      "Icon": "Assets\\Compass.png",
+      "GameName": "Compass",
+      "Name": "罗盘",
+      "Description": "\n重量 0"
+    },
+    {
+      "Id": 24,
+      "Icon": "Assets\\Cure-All.png",
+      "GameName": "Cure-All",
+      "Name": "万灵药",
+      "Description": "中毒 -35\n受伤 -35\n困倦 -35\n寒冷 -35\n热量 -35\n饥饿 -20\n诅咒 -5\n荆棘 -25\n扔出可砸开\n\n重量 5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 25,
+      "Icon": "Assets\\Cursed Skull.png",
+      "GameName": "Cursed Skull",
+      "Name": "诅咒头骨",
+      "Description": "使用后你会死亡\n\n附近玩家会获得：清除所有状态，但不包括诅咒，\n额外体力 +50\n\n重量 5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 26,
+      "Icon": "Assets\\Egg.png",
+      "GameName": "Egg",
+      "Name": "煎蛋",
+      "Description": "饥饿 -15\n\n重量 5"
+    },
+    {
+      "Id": 27,
+      "Icon": "Assets\\Energy Drink.png",
+      "GameName": "Energy Drink",
+      "Name": "能量饮料",
+      "Description": "热量 -30\n困倦 -100\n\n获得11秒50%奔跑速度加成 或\n获得8秒150%攀爬速度加成\n之后获得25点困倦\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 28,
+      "Icon": "Assets\\FireWood.png",
+      "GameName": "FireWood",
+      "Name": "棍子",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 29,
+      "Icon": "Assets\\FirstAidKit.png",
+      "GameName": "FirstAidKit",
+      "Name": "急救箱",
+      "Description": "受伤 -100\n中毒 -100\n\n重量 5\n可烹饪\n"
+    },
+    {
+      "Id": 30,
+      "Icon": "Assets\\Flag_Plantable_Checkpoint.png",
+      "GameName": "Flag_Plantable_Checkpoint",
+      "Name": "检查点旗标",
+      "Description": "\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 31,
+      "Icon": "Assets\\Basketball.png",
+      "GameName": "Basketball",
+      "Name": "篮球",
+      "Description": "扔向头部击晕目标\n\n重量 2.5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 32,
+      "Icon": "Assets\\Flare.png",
+      "GameName": "Flare",
+      "Name": "照明棒",
+      "Description": "可以点燃\n\n重量 0\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 33,
+      "Icon": "Assets\\Granola Bar.png",
+      "GameName": "Granola Bar",
+      "Name": "燕麦棒",
+      "Description": "额外体力 +20\n饥饿 -15\n\n重量 2.5"
+    },
+    {
+      "Id": 34,
+      "Icon": "Assets\\Guidebook.png",
+      "GameName": "Guidebook",
+      "Name": "旅行指南",
+      "Description": "可阅读\n\n重量 0\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 35,
+      "Icon": "Assets\\Heat Pack.png",
+      "GameName": "Heat Pack",
+      "Name": "暖宝宝",
+      "Description": "\n每秒寒冷 -6持续60秒\n\n重量 0\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 36,
+      "Icon": "Assets\\Item_Coconut.png",
+      "GameName": "Item_Coconut",
+      "Name": "椰子",
+      "Description": "扔出可砸开\n扔向头部击晕目标\n\n重量 12.5"
+    },
+    {
+      "Id": 37,
+      "Icon": "Assets\\BalloonBunch.png",
+      "GameName": "BalloonBunch",
+      "Name": "一束气球",
+      "Description": "\n警告：丢弃会飞走\n可附着在角色上\n\n重量 -15\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 38,
+      "Icon": "Assets\\Item_Honeycomb.png",
+      "GameName": "Item_Honeycomb",
+      "Name": "蜂巢蜜",
+      "Description": "饥饿 -10\n额外体力 +50\n\n重量 2.5"
+    },
+    {
+      "Id": 39,
+      "Icon": "Assets\\Berrynana Peel Pink Variant.png",
+      "GameName": "Berrynana Peel Pink Variant",
+      "Name": "莓蕉皮",
+      "Description": "踩到会滑倒\n\n重量 2.5"
+    },
+    {
+      "Id": 40,
+      "Icon": "Assets\\Kingberry Purple.png",
+      "GameName": "Kingberry Purple",
+      "Name": "紫荔莓",
+      "Description": "饥饿 -30\n额外体力 +35\n\n重量 5"
+    },
+    {
+      "Id": 41,
+      "Icon": "Assets\\Kingberry Yellow.png",
+      "GameName": "Kingberry Yellow",
+      "Name": "黄荔莓",
+      "Description": "饥饿 -30\n在3秒后，每秒中毒 +2，持续10秒\n\n重量 5\n可烹饪\n"
+    },
+    {
+      "Id": 42,
+      "Icon": "Assets\\Lantern.png",
+      "GameName": "Lantern",
+      "Name": "提灯",
+      "Description": "\n重量 5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 43,
+      "Icon": "Assets\\Lantern_Faerie.png",
+      "GameName": "Lantern_Faerie",
+      "Name": "仙子提灯",
+      "Description": "\n重量 5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 44,
+      "Icon": "Assets\\Lollipop.png",
+      "GameName": "Lollipop",
+      "Name": "大棒棒糖",
+      "Description": "饥饿 -5\n\n获得11秒无限奔跑体力 或\n获得8秒无限攀爬体力\n之后，每秒困倦 +3持续10秒\n获得11秒无限奔跑体力 或\n获得8秒无限攀爬体力\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 45,
+      "Icon": "Assets\\MagicBean.png",
+      "GameName": "MagicBean",
+      "Name": "魔豆",
+      "Description": "扔出种植一根根茎，垂直于地形生长，最长10米或直到碰到障碍物\n\n重量 2.5"
+    },
+    {
+      "Id": 46,
+      "Icon": "Assets\\Marshmallow.png",
+      "GameName": "Marshmallow",
+      "Name": "棉花糖",
+      "Description": "饥饿 -15\n\n重量 2.5"
+    },
+    {
+      "Id": 47,
+      "Icon": "Assets\\AncientIdol.png",
+      "GameName": "AncientIdol",
+      "Name": "古老玩偶",
+      "Description": "持有时获得护盾（无敌）\n\n重量 40\n可烹饪\n"
+    },
+    {
+      "Id": 48,
+      "Icon": "Assets\\CactusBall.png",
+      "GameName": "CactusBall",
+      "Name": "仙人球",
+      "Description": "粘在你身上\n可扔出，至少蓄力40%\n\n重量 0"
+    },
+    {
+      "Id": 49,
+      "Icon": "Assets\\GuidebookPageScroll Variant.png",
+      "GameName": "GuidebookPageScroll Variant",
+      "Name": "卷轴",
+      "Description": "可打开\n\n重量 0"
+    },
+    {
+      "Id": 50,
+      "Icon": "Assets\\GuidebookPage_0_Intro.png",
+      "GameName": "GuidebookPage_0_Intro",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 51,
+      "Icon": "Assets\\Mushroom Glow.png",
+      "GameName": "Mushroom Glow",
+      "Name": "诡异菇",
+      "Description": "饥饿 -10\n\nGlowing\n\n重量 2.5"
+    },
+    {
+      "Id": 52,
+      "Icon": "Assets\\GuidebookPage_2_Campfire.png",
+      "GameName": "GuidebookPage_2_Campfire",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 53,
+      "Icon": "Assets\\GuidebookPage_3_Revival.png",
+      "GameName": "GuidebookPage_3_Revival",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 54,
+      "Icon": "Assets\\GuidebookPage_7_Crashout Variant.png",
+      "GameName": "GuidebookPage_7_Crashout Variant",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 55,
+      "Icon": "Assets\\Item_Coconut_half.png",
+      "GameName": "Item_Coconut_half",
+      "Name": "半边椰子",
+      "Description": "饥饿 -10\n热量 -30\n\n重量 5"
+    },
+    {
+      "Id": 56,
+      "Icon": "Assets\\Kingberry Green.png",
+      "GameName": "Kingberry Green",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5\n可烹饪\n"
+    },
+    {
+      "Id": 57,
+      "Icon": "Assets\\NestEgg.png",
+      "GameName": "NestEgg",
+      "Name": "好大蛋",
+      "Description": "扔出可砸开\n\n重量 5"
+    },
+    {
+      "Id": 58,
+      "Icon": "Assets\\PandorasBox.png",
+      "GameName": "PandorasBox",
+      "Name": "潘多拉餐盒",
+      "Description": "\n清除所有状态，然后随机化额外体力、寒冷、热量、中毒、困倦、受伤、饥饿、孢子\n\n重量 2.5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 59,
+      "Icon": "Assets\\Passport.png",
+      "GameName": "Passport",
+      "Name": "护照",
+      "Description": "打开以自定义角色\n\n重量 -2.5"
+    },
+    {
+      "Id": 60,
+      "Icon": "Assets\\Pepper Berry.png",
+      "GameName": "Pepper Berry",
+      "Name": "火烧莓",
+      "Description": "饥饿 -10\n热量 +25\n\n重量 2.5"
+    },
+    {
+      "Id": 61,
+      "Icon": "Assets\\Pirate Compass.png",
+      "GameName": "Pirate Compass",
+      "Name": "海盗罗盘",
+      "Description": "\n重量 0"
+    },
+    {
+      "Id": 62,
+      "Icon": "Assets\\PortableStovetopItem.png",
+      "GameName": "PortableStovetopItem",
+      "Name": "便携火炉",
+      "Description": "\n重量 5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 63,
+      "Icon": "Assets\\RopeShooter.png",
+      "GameName": "RopeShooter",
+      "Name": "绳索炮",
+      "Description": "发射绳锚以放置一根绳子，向下垂落 7.5米\n\n重量 2.5\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 64,
+      "Icon": "Assets\\RopeShooterAnti.png",
+      "GameName": "RopeShooterAnti",
+      "Name": "反重绳索炮",
+      "Description": "发射绳锚以放置一根绳子，向上漂浮 7.5米\n\n警告：丢弃会飞走\n\n重量 0\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 65,
+      "Icon": "Assets\\RopeSpool.png",
+      "GameName": "RopeSpool",
+      "Name": "绳索",
+      "Description": "放置一根绳子\n长度从0.75米到最长10米，共15米\n\n重量 2.5\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 66,
+      "Icon": "Assets\\ScoutCookies.png",
+      "GameName": "ScoutCookies",
+      "Name": "童军饼干",
+      "Description": "饥饿 -10\n额外体力 +10\n\n重量 5"
+    },
+    {
+      "Id": 67,
+      "Icon": "Assets\\ScoutEffigy.png",
+      "GameName": "ScoutEffigy",
+      "Name": "童军雕像",
+      "Description": "复活一名死亡玩家\n\n重量 5"
+    },
+    {
+      "Id": 68,
+      "Icon": "Assets\\ShelfShroom.png",
+      "GameName": "ShelfShroom",
+      "Name": "踏板菇",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 69,
+      "Icon": "Assets\\Shell Big.png",
+      "GameName": "Shell Big",
+      "Name": "海螺",
+      "Description": "\n重量 5"
+    },
+    {
+      "Id": 70,
+      "Icon": "Assets\\HealingDart Variant.png",
+      "GameName": "HealingDart Variant",
+      "Name": "吹箭筒",
+      "Description": "\n射出飞镖将施加：\n清除所有状态，但不包括诅咒,\n困倦 +120\n射出飞镖将施加：\n清除所有状态，但不包括诅咒,\n热量 +150\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 71,
+      "Icon": "Assets\\Sports Drink.png",
+      "GameName": "Sports Drink",
+      "Name": "运动饮料",
+      "Description": "额外体力 +30\n热量 -200\n额外体力 +15\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 72,
+      "Icon": "Assets\\Stone.png",
+      "GameName": "Stone",
+      "Name": "石头",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 73,
+      "Icon": "Assets\\TrailMix.png",
+      "GameName": "TrailMix",
+      "Name": "混合坚果",
+      "Description": "额外体力 +10\n饥饿 -10\n\n重量 2.5"
+    },
+    {
+      "Id": 74,
+      "Icon": "Assets\\Warp Compass.png",
+      "GameName": "Warp Compass",
+      "Name": "曲迁罗盘",
+      "Description": "传送到随机玩家位置\n\n重量 5"
+    },
+    {
+      "Id": 75,
+      "Icon": "Assets\\Winterberry Orange.png",
+      "GameName": "Winterberry Orange",
+      "Name": "橙雪莓",
+      "Description": "饥饿 -15\n热量 -30\n\n重量 2.5"
+    },
+    {
+      "Id": 76,
+      "Icon": "Assets\\Winterberry Yellow.png",
+      "GameName": "Winterberry Yellow",
+      "Name": "黄雪莓",
+      "Description": "饥饿 -30\n额外体力 +35\n热量 -50\n受伤 -20\n\n重量 2.5"
+    },
+    {
+      "Id": 77,
+      "Icon": "Assets\\Bugle_Scoutmaster Variant.png",
+      "GameName": "Bugle_Scoutmaster Variant",
+      "Name": "童军领队的喇叭",
+      "Description": "额外体力 +100\n使用后违反规则0\n\n重量 2.5"
+    },
+    {
+      "Id": 78,
+      "Icon": "Assets\\Megaphone.png",
+      "GameName": "Megaphone",
+      "Name": "扩音器",
+      "Description": "\n重量 0"
+    },
+    {
+      "Id": 79,
+      "Icon": "Assets\\BounceShroom.png",
+      "GameName": "BounceShroom",
+      "Name": "弹力菇",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 80,
+      "Icon": "Assets\\GuidebookPage.png",
+      "GameName": "GuidebookPage",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 81,
+      "Icon": "Assets\\MedicinalRoot.png",
+      "GameName": "MedicinalRoot",
+      "Name": "药用根茎",
+      "Description": "中毒 -25\n受伤 -10\n饥饿 -5\n中毒 -20\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 82,
+      "Icon": "Assets\\GuidebookPage_1_Mushrooms.png",
+      "GameName": "GuidebookPage_1_Mushrooms",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 83,
+      "Icon": "Assets\\Mushroom Chubby.png",
+      "GameName": "Mushroom Chubby",
+      "Name": "梨鲍菇",
+      "Description": "饥饿 -10\n\n重量 2.5"
+    },
+    {
+      "Id": 84,
+      "Icon": "Assets\\Mushroom Cluster Poison.png",
+      "GameName": "Mushroom Cluster Poison",
+      "Name": "银针菇",
+      "Description": "饥饿 -5\n在10秒后，每秒中毒 +2，持续16秒\n\n重量 2.5"
+    },
+    {
+      "Id": 85,
+      "Icon": "Assets\\GuidebookPage_4_BodyHeat Variant.png",
+      "GameName": "GuidebookPage_4_BodyHeat Variant",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 86,
+      "Icon": "Assets\\GuidebookPage_5_Sleepy Variant.png",
+      "GameName": "GuidebookPage_5_Sleepy Variant",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 87,
+      "Icon": "Assets\\GuidebookPage_6_Awake Variant.png",
+      "GameName": "GuidebookPage_6_Awake Variant",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 88,
+      "Icon": "Assets\\Mushroom Cluster.png",
+      "GameName": "Mushroom Cluster",
+      "Name": "银针菇",
+      "Description": "饥饿 -5\n\n重量 2.5"
+    },
+    {
+      "Id": 89,
+      "Icon": "Assets\\Mushroom Lace Poison.png",
+      "GameName": "Mushroom Lace Poison",
+      "Name": "喇叭菇",
+      "Description": "饥饿 -15\n在10秒后，每秒中毒 +2，持续8秒\n\n重量 2.5"
+    },
+    {
+      "Id": 90,
+      "Icon": "Assets\\HealingPuffShroom.png",
+      "GameName": "HealingPuffShroom",
+      "Name": "灵药菇",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 91,
+      "Icon": "Assets\\Berrynana Peel Blue Variant.png",
+      "GameName": "Berrynana Peel Blue Variant",
+      "Name": "莓蕉皮",
+      "Description": "踩到会滑倒\n\n重量 2.5"
+    },
+    {
+      "Id": 92,
+      "Icon": "Assets\\Berrynana Peel Brown Variant.png",
+      "GameName": "Berrynana Peel Brown Variant",
+      "Name": "莓蕉皮",
+      "Description": "踩到会滑倒\n\n重量 2.5"
+    },
+    {
+      "Id": 93,
+      "Icon": "Assets\\Mushroom Lace.png",
+      "GameName": "Mushroom Lace",
+      "Name": "喇叭菇",
+      "Description": "饥饿 -15\n\n重量 2.5"
+    },
+    {
+      "Id": 94,
+      "Icon": "Assets\\Berrynana Peel Yellow.png",
+      "GameName": "Berrynana Peel Yellow",
+      "Name": "莓蕉皮",
+      "Description": "踩到会滑倒\n\n重量 2.5"
+    },
+    {
+      "Id": 95,
+      "Icon": "Assets\\Bugfix.png",
+      "GameName": "Bugfix",
+      "Name": "蜱虫",
+      "Description": "饥饿 -20\n\n重量 2.5"
+    },
+    {
+      "Id": 96,
+      "Icon": "Assets\\GuidebookPage_8_FirstTeams.png",
+      "GameName": "GuidebookPage_8_FirstTeams",
+      "Name": "撕下的书页",
+      "Description": "可阅读\n\n重量 0"
+    },
+    {
+      "Id": 97,
+      "Icon": "Assets\\Mushroom Normie Poison.png",
+      "GameName": "Mushroom Normie Poison",
+      "Name": "馒头菇",
+      "Description": "饥饿 -10\n在10秒后，每秒中毒 +2，持续12秒\n\n重量 2.5"
+    },
+    {
+      "Id": 98,
+      "Icon": "Assets\\Parasol.png",
+      "GameName": "Parasol",
+      "Name": "太阳伞",
+      "Description": "打开可减缓下落速度\n\n重量 2.5"
+    },
+    {
+      "Id": 99,
+      "Icon": "Assets\\Frisbee.png",
+      "GameName": "Frisbee",
+      "Name": "飞盘",
+      "Description": "把它扔出去\n扔向头部击晕目标\n\n重量 0"
+    },
+    {
+      "Id": 100,
+      "Icon": "Assets\\RescueHook.png",
+      "GameName": "RescueHook",
+      "Name": "救援抓钩",
+      "Description": "\n重量 2.5\n烹饪后会破碎\n\n烹饪后会破碎\n"
+    },
+    {
+      "Id": 101,
+      "Icon": "Assets\\AloeVera.png",
+      "GameName": "AloeVera",
+      "Name": "芦荟",
+      "Description": "热量 -50\n\n重量 2.5"
+    },
+    {
+      "Id": 102,
+      "Icon": "Assets\\Mushroom Normie.png",
+      "GameName": "Mushroom Normie",
+      "Name": "馒头菇",
+      "Description": "饥饿 -10\n\n重量 2.5"
+    },
+    {
+      "Id": 103,
+      "Icon": "Assets\\Prickleberry_Gold.png",
+      "GameName": "Prickleberry_Gold",
+      "Name": "金刺莓",
+      "Description": "饥饿 -15\n热量 -10\n受伤 -10\n荆棘 +10\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 104,
+      "Icon": "Assets\\Sunscreen.png",
+      "GameName": "Sunscreen",
+      "Name": "防晒喷雾",
+      "Description": "\n重量 2.5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 105,
+      "Icon": "Assets\\Balloon.png",
+      "GameName": "Balloon",
+      "Name": "气球",
+      "Description": "\n警告：丢弃会飞走\n可附着在角色上\n\n重量 -5\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 106,
+      "Icon": "Assets\\Dynamite.png",
+      "GameName": "Dynamite",
+      "Name": "炸药",
+      "Description": "爆炸造成最高30点伤害\n手持式造成更高伤害\n\n重量 0\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 107,
+      "Icon": "Assets\\ScoutCannonItem.png",
+      "GameName": "ScoutCannonItem",
+      "Name": "童子军大炮",
+      "Description": "放置后点燃引信：\n将筒中的童子军发射出去\n\n重量 15\n烹饪后会爆炸\n"
+    },
+    {
+      "Id": 108,
+      "Icon": "Assets\\Prickleberry_Red.png",
+      "GameName": "Prickleberry_Red",
+      "Name": "红刺莓",
+      "Description": "饥饿 -15\n热量 -10\n荆棘 +10\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 109,
+      "Icon": "Assets\\Torch.png",
+      "GameName": "Torch",
+      "Name": "火炬",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 110,
+      "Icon": "Assets\\Napberry.png",
+      "GameName": "Napberry",
+      "Name": "晚安莓",
+      "Description": "困倦 +100\n\n清除所有状态，但不包括诅咒、螃蟹\n\n重量 2.5"
+    },
+    {
+      "Id": 111,
+      "Icon": "Assets\\Scorpion.png",
+      "GameName": "Scorpion",
+      "Name": "蝎子",
+      "Description": "饥饿 -10\n\n重量 2.5"
+    },
+    {
+      "Id": 112,
+      "Icon": "Assets\\Strange Gem.png",
+      "GameName": "Strange Gem",
+      "Name": "奇怪水晶",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 113,
+      "Icon": "Assets\\Cheat Compass.png",
+      "GameName": "Cheat Compass",
+      "Name": "LOC: NAME_CHEATER'S COMPASS",
+      "Description": "传送到Alpine\n\n重量 5"
+    },
+    {
+      "Id": 114,
+      "Icon": "Assets\\EggTurkey.png",
+      "GameName": "EggTurkey",
+      "Name": "“鸟”",
+      "Description": "饥饿 -20\n\n重量 10\n可烹饪\n"
+    },
+    {
+      "Id": 115,
+      "Icon": "Assets\\BookOfBones.png",
+      "GameName": "BookOfBones",
+      "Name": "骸骨之书",
+      "Description": "清除所有状态，但不包括诅咒\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 116,
+      "Icon": "Assets\\ClimbingChalk.png",
+      "GameName": "ClimbingChalk",
+      "Name": "LOC: NAME_CLIMBING CHALK",
+      "Description": "\nClimbingChalk\n\n重量 2.5"
+    },
+    {
+      "Id": 117,
+      "Icon": "Assets\\CloudFungus.png",
+      "GameName": "CloudFungus",
+      "Name": "云雾菇",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 118,
+      "Icon": "Assets\\C_Bishop_f Variant.png",
+      "GameName": "C_Bishop_f Variant",
+      "Name": "主教",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 119,
+      "Icon": "Assets\\C_Bishop_f.png",
+      "GameName": "C_Bishop_f",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 120,
+      "Icon": "Assets\\C_Bishop_m Variant.png",
+      "GameName": "C_Bishop_m Variant",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 121,
+      "Icon": "Assets\\C_Bishop_m.png",
+      "GameName": "C_Bishop_m",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 122,
+      "Icon": "Assets\\C_King Variant.png",
+      "GameName": "C_King Variant",
+      "Name": "国王",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 123,
+      "Icon": "Assets\\C_King.png",
+      "GameName": "C_King",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 124,
+      "Icon": "Assets\\BingBong_Prop Variant.png",
+      "GameName": "BingBong_Prop Variant",
+      "Name": "宾邦",
+      "Description": "Bingbong航空吉祥物\n\n重量 5\n可烹饪\n"
+    },
+    {
+      "Id": 125,
+      "Icon": "Assets\\Binoculars_Prop.png",
+      "GameName": "Binoculars_Prop",
+      "Name": "望远镜",
+      "Description": "使用可以看得更远\n\n重量 0"
+    },
+    {
+      "Id": 126,
+      "Icon": "Assets\\Bugle_Prop Variant.png",
+      "GameName": "Bugle_Prop Variant",
+      "Name": "喇叭",
+      "Description": "\n重量 0\n可烹饪\n"
+    },
+    {
+      "Id": 127,
+      "Icon": "Assets\\C_Bishop B.png",
+      "GameName": "C_Bishop B",
+      "Name": "主教",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 128,
+      "Icon": "Assets\\C_Bishop W.png",
+      "GameName": "C_Bishop W",
+      "Name": "主教",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 129,
+      "Icon": "Assets\\C_King B.png",
+      "GameName": "C_King B",
+      "Name": "国王",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 130,
+      "Icon": "Assets\\C_King W.png",
+      "GameName": "C_King W",
+      "Name": "国王",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 131,
+      "Icon": "Assets\\C_Knight B.png",
+      "GameName": "C_Knight B",
+      "Name": "骑士",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 132,
+      "Icon": "Assets\\C_Knight W.png",
+      "GameName": "C_Knight W",
+      "Name": "骑士",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 133,
+      "Icon": "Assets\\C_Pawn B.png",
+      "GameName": "C_Pawn B",
+      "Name": "兵卒",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 134,
+      "Icon": "Assets\\C_Pawn W.png",
+      "GameName": "C_Pawn W",
+      "Name": "兵卒",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 135,
+      "Icon": "Assets\\C_Queen B.png",
+      "GameName": "C_Queen B",
+      "Name": "皇后",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 136,
+      "Icon": "Assets\\C_Queen W.png",
+      "GameName": "C_Queen W",
+      "Name": "皇后",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 137,
+      "Icon": "Assets\\C_Rook B.png",
+      "GameName": "C_Rook B",
+      "Name": "战车",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 138,
+      "Icon": "Assets\\C_Rook W.png",
+      "GameName": "C_Rook W",
+      "Name": "战车",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 139,
+      "Icon": "Assets\\Lollipop_Prop.png",
+      "GameName": "Lollipop_Prop",
+      "Name": "大棒棒糖",
+      "Description": "饥饿 -5\n\n重量 2.5"
+    },
+    {
+      "Id": 140,
+      "Icon": "Assets\\C_Knight Variant.png",
+      "GameName": "C_Knight Variant",
+      "Name": "骑士",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 141,
+      "Icon": "Assets\\C_Knight.png",
+      "GameName": "C_Knight",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 142,
+      "Icon": "Assets\\C_Pawn_f Variant.png",
+      "GameName": "C_Pawn_f Variant",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 143,
+      "Icon": "Assets\\C_Pawn_f.png",
+      "GameName": "C_Pawn_f",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 144,
+      "Icon": "Assets\\C_Pawn_m Variant.png",
+      "GameName": "C_Pawn_m Variant",
+      "Name": "兵卒",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 145,
+      "Icon": "Assets\\C_Pawn_m.png",
+      "GameName": "C_Pawn_m",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 146,
+      "Icon": "Assets\\C_Queen Variant.png",
+      "GameName": "C_Queen Variant",
+      "Name": "皇后",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 147,
+      "Icon": "Assets\\C_Queen.png",
+      "GameName": "C_Queen",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 148,
+      "Icon": "Assets\\C_Rook_f Variant.png",
+      "GameName": "C_Rook_f Variant",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 149,
+      "Icon": "Assets\\C_Rook_f.png",
+      "GameName": "C_Rook_f",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 150,
+      "Icon": "Assets\\C_Rook_m Variant.png",
+      "GameName": "C_Rook_m Variant",
+      "Name": "战车",
+      "Description": "\n重量 2.5"
+    },
+    {
+      "Id": 151,
+      "Icon": "Assets\\C_Rook_m.png",
+      "GameName": "C_Rook_m",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 152,
+      "Icon": "Assets\\FortifiedMilk.png",
+      "GameName": "FortifiedMilk",
+      "Name": "奶白金",
+      "Description": "热量 -50\n饥饿 -5\n受伤 -100\n\n无敌，持续15秒\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 153,
+      "Icon": "Assets\\FortifiedMilk_TEMP.png",
+      "GameName": "FortifiedMilk_TEMP",
+      "Name": "青荔莓",
+      "Description": "饥饿 -30\n中毒 +5\n\n重量 5"
+    },
+    {
+      "Id": 154,
+      "Icon": "Assets\\Glizzy.png",
+      "GameName": "Glizzy",
+      "Name": "热狗肠",
+      "Description": "饥饿 -30\n额外体力 +20\n\n重量 2.5"
+    },
+    {
+      "Id": 155,
+      "Icon": "Assets\\Mandrake.png",
+      "GameName": "Mandrake",
+      "Name": "曼德拉草",
+      "Description": "饥饿 -10\n诅咒 -25\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 156,
+      "Icon": "Assets\\Mandrake_Hidden.png",
+      "GameName": "Mandrake_Hidden",
+      "Name": "药用根茎",
+      "Description": "中毒 -25\n受伤 -10\n饥饿 -5\n中毒 -20\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 157,
+      "Icon": "Assets\\ScoutCookies_Vanilla.png",
+      "GameName": "ScoutCookies_Vanilla",
+      "Name": "童军饼干",
+      "Description": "饥饿 -10\n额外体力 +10\n\n重量 5"
+    },
+    {
+      "Id": 158,
+      "Icon": "Assets\\Shroomberry_Blue.png",
+      "GameName": "Shroomberry_Blue",
+      "Name": "蓝菇莓",
+      "Description": "饥饿 -10\n孢子 +5\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 159,
+      "Icon": "Assets\\Shroomberry_Green.png",
+      "GameName": "Shroomberry_Green",
+      "Name": "绿菇莓",
+      "Description": "饥饿 -10\n孢子 +5\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 160,
+      "Icon": "Assets\\Shroomberry_Purple.png",
+      "GameName": "Shroomberry_Purple",
+      "Name": "紫菇莓",
+      "Description": "饥饿 -10\n孢子 +5\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 161,
+      "Icon": "Assets\\Shroomberry_Red.png",
+      "GameName": "Shroomberry_Red",
+      "Name": "红菇莓",
+      "Description": "饥饿 -10\n孢子 +5\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 162,
+      "Icon": "Assets\\Shroomberry_Yellow.png",
+      "GameName": "Shroomberry_Yellow",
+      "Name": "黄菇莓",
+      "Description": "饥饿 -10\n孢子 +5\n\n重量 2.5\n可烹饪\n"
+    },
+    {
+      "Id": 163,
+      "Icon": "Assets\\Skull.png",
+      "GameName": "Skull",
+      "Name": "LOC: NAME_SKULL",
+      "Description": "\n重量 5"
+    },
+    {
+      "Id": 164,
+      "Icon": "Assets\\Parasol_Roots Variant.png",
+      "GameName": "Parasol_Roots Variant",
+      "Name": "太阳伞",
+      "Description": "打开可减缓下落速度\n\n重量 2.5"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{{Infobox item
+| Location = [[Locations#Lobby|Airport]]
+| Type = Item
+| Weight = -2.5
+}}
+<!-- Note for dataminers: cosmetics icons are stored in sharedassets3.assets as of 1.41.a -->
+
+The '''Passport''' is an item in {{Peak game}} which allows players to customize the appearance of their [[Scout]]s. The available customization options include the skin color, hair, eyes, mouth, fit (clothing), hats, and sashes.
+
+The Passport is only accessible in the [[Airport]] and cannot be dropped.
+
+Many cosmetics must be unlocked through the completion of a related [[Badge]] before they can be used. Sashes are unlocked through completing [[Ascents]].
+
+== <span class="notoc">[[File:Passport Color.png|32px|link=]]</span> Colors ==
+
+<gallery>
+File:Hand Red.png | Red
+File:Hand Orange.png | Orange
+File:Hand Yellow.png | Yellow
+File:Hand Lime.png | Lime
+File:Hand Green.png | Green
+File:Hand Turquoise.png | Turquoise
+File:Hand Blue.png | Blue
+File:Hand Purple.png | Purple
+File:Hand Pink.png | Pink
+</gallery>
+
+== <span class="notoc">[[File:Passport Accessories.png|32px|link=|class=invert-on-dark]]</span> Accessories ==
+
+<gallery>
+File:Accessory None.png | None
+File:Accessory Charlie.png | Charlie
+File:Accessory Hair.png | Hair
+File:Accessory Parted Hair.png | Parted Hair
+File:Accessory Microbangs.png | Microbangs
+File:Accessory Raised Brow.png | Raised Brow
+File:Accessory Dot Brow.png | Dot Brow
+File:Accessory Brows.png | Brows
+File:Accessory Angry Brows.png | Angry Brows
+File:Accessory Round Glasses.png | Round Glasses
+File:Accessory Aviators.png | Aviators
+File:Accessory Cheekbones.png | Cheekbones
+File:Accessory Face Paint.png | Face Paint
+File:Accessory Scar.png | Scar
+File:Accessory Bow.png | Bow <br> {{Badge|Knot Tying}}
+File:Accessory Eyepatch.png | Eyepatch <br> {{Badge|Plunderer}}
+File:Accessory Broken Glasses.png | Broken Glasses <br> {{Badge|Bookworm}}
+File:Accessory Groucho.png | Groucho <br> {{Badge|Leave No Trace}}
+File:Accessory Matrix Glasses.png | Matrix Glasses <br> {{Badge|Astronomy}}
+File:Accessory Scar 2.png | Scar 2 <br> {{Badge|Megaentomology}}
+File:Accessory ThirdEye.png | Third Eye <br> {{Badge|Calcium Intake}}
+</gallery>
+
+== <span class="notoc">[[File:Passport Eyes.png | 32px|link=]]</span> Eyes ==
+
+<gallery>
+File:Eyes Basic.png | Basic Eyes
+File:Eyes Lashes.png | Lashes
+File:Eyes Half.png | Half Eyes
+File:Eyes Shine.png | Shine
+File:Eyes Squint.png | Squint
+File:Eyes Angry.png | Angry Eyes
+File:Eyes Eyeliner.png | Eyeliner
+File:Eyes Sad.png | Sad Eyes
+File:Eyes Cry.png | Cry Eyes
+File:Eyes Tired.png | Tired Eyes
+File:Eyes Almond.png | Almond Eyes
+File:Eyes 2.png | Eyes 2
+File:Eyes Small.png | Small Eyes
+File:Eyes Concern.png | Concern Eyes
+File:Eyes Anime.png | Anime Eyes <br> {{Badge|Bouldering}}
+File:Eyes Real.png | Real Eyes <br> {{Badge|Arborist}}
+File:Eyes Aggro.png | Aggro Eyes <br> {{Badge|Gourmand}}
+File:Eyes Inverted.png | Inverted Eyes <br> {{Badge|Mentorship}}
+</gallery>
+
+== <span class="notoc">[[File:Passport Mouth.png | 32px|link=]]</span> Mouths ==
+
+<gallery>
+File:Mouth Smiley.png | Smiley
+File:Mouth CalArts.png | [[wikipedia:California_Institute_of_the_Arts|CalArts]]
+File:Mouth Cat.png | Cat
+File:Mouth Cheek.png | Cheek
+File:Mouth Drool.png | Drool
+File:Mouth Lips.png | Lips
+File:Mouth Frown.png | Frown
+File:Mouth Kissy.png | Kissy
+File:Mouth NonPlussed.png | Non-Plussed
+File:Mouth O.png | O
+File:Mouth Squiggle.png | Squiggle
+File:Mouth Triangle.png | Triangle
+File:Mouth Smirk.png | Smirk
+File:Mouth Cringe.png | Cringe
+File:Mouth Teeth.png | Teeth
+File:Mouth Vamp.png | Vamp <br> {{Badge|Toxicology}}
+File:Mouth Aggro.png | Aggro <br> {{Badge|Gourmand}}
+File:Mouth Wacky.png | Wacky <br> {{Badge|Foraging}}
+File:Mouth Labu.png | Labu <br> {{Badge|Resourcefulness}}
+</gallery>
+
+== <span class="notoc">[[File:Passport Clothing.png | 32px|link=]]</span> Clothing ==
+
+<gallery>
+File:Fit Shorts.png | Shorts
+File:Fit Skirt.png | Skirt
+File:Fit Turtle Shorts.png | Turtle Shorts
+File:Fit Turtle Skirt.png | Turtle Skirt
+File:Fit Sailor Shorts.png | Sailor Shorts <br> {{Badge|Emergency Preparedness}}
+File:Fit Sailor Skirt.png | Sailor Skirt <br> {{Badge|Emergency Preparedness}}
+File:Fit Castaway Shorts.png | Castaway Shorts <br> {{Badge|Participation}}
+File:Fit Castaway Skirt.png | Castaway Skirt <br> {{Badge|Participation}}
+File:Fit Tropical Shorts.png | Tropical Shorts <br> {{Badge|Volcanology}}
+File:Fit Tropical Skirt.png | Tropical Skirt <br> {{Badge|Volcanology}}
+File:Fit Cookie Shorts.png | Cookie Shorts <br> {{Badge|Happy Camper}}
+File:Fit Cookie Skirt.png | Cookie Skirt <br> {{Badge|Happy Camper}}
+File:Fit Balloon Shorts.png | Balloon Shorts <br> {{Badge|Balloon}}
+File:Fit Balloon Skirt.png | Balloon Skirt <br> {{Badge|Balloon}}
+File:Fit Scoutmaster Shorts.png | Scoutmaster Shorts <br> {{Badge|Survivalist}}
+File:Fit Scoutmaster Skirt.png | Scoutmaster Skirt <br> {{Badge|Survivalist}}
+File:Fit Cowboy.png | Cowboy <br> {{Badge|Cool Cucumber}}
+File:Fit Astronaut.png | Astronaut <br> {{Badge|Aeronautics}}
+File:Fit Ice Blue.png | Ice Blue <br> {{Badge|Bundled Up}}
+File:Fit Ice Pink.png | Ice Pink <br> {{Badge|Bundled Up}}
+File:Fit Gnome.png | Gnome Outfit <br> {{Badge|Forestry}}
+File:Fit PlagueDoctor.png | Plague Doctor Outfit <br> {{Badge|Tread Lightly}}
+File:Fit Mummy.png | Mummy Outfit <br> {{Badge|Web Security}}
+File:Fit Climber.png | Climber Outfit <br> {{Badge|Disaster Response}}
+File:Fit SkeleOnesie.png | Skeleton Onesie <br> {{Badge|Applied Esoterica}}
+File:Fit Fairy.png | Fairy Outfit <br> {{Badge|Mycoacrobatics}}
+</gallery>
+
+== <span class="notoc">[[File:Passport Hats.png | 32px|link=]]</span> Hats ==
+
+<gallery>
+File:Hat Cap.png | Cap
+File:Hat Beret.png | Beret
+File:Hat Pith Helmet.png | Fedora (Pith Helmet) <br> {{Badge|Trailblazer}}
+File:Hat Propeller Hat.png | Propeller Hat <br> {{Badge|Bing Bong}}
+File:Hat Straw Hat.png | Straw Hat <br> {{Badge|Beachcomber}}
+File:Hat Aviator.png | Aviator Hat <br> {{Badge|Alphinist}}
+File:Hat Sailor.png | Sailor Hat <br> {{Badge|Clutch}}
+File:Hat Medic.png | Medic Hat <br> {{Badge|First Aid}}
+File:Hat Midsummer.png | Midsummer Hat<br> {{Badge|Naturalist}}
+File:Hat Mushroom.png | Mushroom Hat <br> {{Badge|Mycology}}
+File:Hat Crab.png | Crab Hat <br> {{Badge|Animal Serenading}}
+File:Hat Courier.png | Courier Hat <br> {{Badge|Hasty}}
+File:Hat Scoutmaster.png | Scoutmaster Hat <br> {{Badge|Peak}}
+File:Hat Bandana.png | Bandana <br> {{Badge|High Altitude}}
+File:Hat Ninja Headband.png | Ninja Headband <br> {{Badge|Endurance}}
+File:Hat Chef.png | Chef Hat <br> {{Badge|Cooking}}
+File:Hat Wizard.png | Wizard Hat <br> {{Badge|Esoterica}}
+File:Hat Wolf Ears.png | Wolf Ears <br> {{Badge|Lone Wolf}}
+File:Hat Crown.png | Crown <br> Collect all the [[Badges#Original badges|original badges]].
+File:Hat Goat.png | Goat <br> Complete [[Ascent 7]]
+File:Hat Desert Hat.png | Desert Hat <br> {{Badge|Nomad}}
+File:Hat Visor.png | Visor <br> {{Badge|Ultimate}}
+File:Hat Sun Hat.png | Sun Hat <br> {{Badge|Needlepoint}}
+File:Hat Gallon.png | Gallon Hat <br> {{Badge|Cool Cucumber}}
+File:Hat Bing Bong Beanie.png | Bing Bong Beanie <br> {{Badge|24 Karat}}
+File:Hat Racing Helmet.png | Racing Helmet <br> {{Badge|Daredevil}}
+File:Hat Astronaut.png | Astronaut <br> {{Badge|Aeronautics}}
+File:Hat Pumpkin.png | Pumpkin Hat <br> {{Badge|Undead Encounter}}
+File:Hat Mummy.png | Mummy Hat <br> {{Badge|Web Security}}
+File:Hat Antlers.png | Antlers <br> {{Badge|Advanced Mycology}}
+File:Hat Gnome.png | Gnome Hat <br> {{Badge|Forestry}}
+File:Hat PlagueDoctor.png | Plague Doctor Hat <br> {{Badge|Tread Lightly}}
+File:Hat ClimbingHelmet.png | Climbing Helmet <br> {{Badge|Disaster Response}}
+File:Hat DrinkHat.png | Drink Hat <br> {{Badge|Competitive Eating}}
+File:Hat Fairy.png | Fairy Hat <br> {{Badge|Mycoacrobatics}}
+File:Hat Sprout.png | Sprout Hat <br> {{Badge|Cryptogastronomy}}
+</gallery>
+
+== <span class="notoc">[[File:Passport Sash Tab.png | 32px|link=]]</span> Sashes ==
+
+<gallery>
+File:Sash 0.png | Default Sash
+File:Sash 1.png | Tadpole Scout Sash <br> Complete [[Ascents|Ascent Peak]]
+File:Sash 2.png | Rabbit Scout Sash <br> Complete [[Ascents|Ascent 1]]
+File:Sash 3.png | Raccoon Scout Sash <br> Complete [[Ascents|Ascent 2]]
+File:Sash 4.png | Mule Scout Sash <br> Complete [[Ascents|Ascent 3]]
+File:Sash 5.png | Kangaroo Scout Sash <br> Complete [[Ascents|Ascent 4]]
+File:Sash 6.png | Owl Scout Sash <br> Complete [[Ascents|Ascent 5]]
+File:Sash 7.png | Wolf Scout Sash <br> Complete [[Ascents|Ascent 6]]
+File:Sash 8.png | Goat Scout Sash <br> Complete [[Ascents|Ascent 7]]
+</gallery>
+
+== Trivia ==
+* The Passport states your nationality as "Crabland", which is a reference to the [[Developers|developers]] of the game, ''AggroCrab'' & ''Landfall'', or ''Landcrab''.
+* The Aggro Eyes & Mouth earned from the {{badge|Gourmand}} is a reference to ''AggroCrab'''s mascot.
+* The Balloon Shorts & Skirt earned from the {{badge|Balloon}} is a reference to Russell, a character from the 2009 Pixar movie ''[[wikipedia:Up_(2009_film)|Up]]''.
+* The Courier Hat earned from the {{badge|Speed Climber}} is a reference to ''Landfall'''s game ''HASTE''.
+* The Matrix Glasses earned from the {{badge|Astronomy}} is a reference to the 1999 action movie ''[[wikipedia:The Matrix|The Matrix]]''.
+* The Ice Blue & Ice Pink clothing earned from the {{Badge|Bundled Up}} is a reference to Popo & Nana, characters from the 1985 video game ''[[Wikipedia:Ice Climber|Ice Climber]]'' developed and published by [[wikipedia:Nintendo|Nintendo]].
+* The Labu mouth earned from the {{Badge|Resourcefulness}} is a reference to [[wikipedia:Labubu|Labubu]] toys.
+* There are two cosmetics in the game that are unobtainable through normal play, those being the eyes and spores cosmetics seen on [[Zombie|Zombies]].  The only way to obtain these cosmetics is to use [[mods]] to give them to yourself.
+
+== Gallery ==
+<gallery>
+File:Passport HUD.png | The customization menu that appears when using the Passport.
+File:Cosmetics.png | A full [[Scout]] troop with a variety of cosmetics, observed through the [[Airport]] mirror.
+</gallery>
+
+== Patch history ==
+{{patch|1.0|
+* Introduced. }}
+{{patch|1.4.a|
+* Fixed an issue where new Eye cosmetics unlocked at the end screen would say "New Hat" and feature the wrong shader }}
+{{patch|1.6.a|
+* Fixed an issue where the Passport wouldn't properly update your cosmetics when returning to the airport after a win. }}
+{{patch|1.20.a|
+* Changed the Pith Helmet into a Fedora. '''(Undocumented Change)'''}}
+{{patch|1.27.a|
+* You can now change your [[sash]] in the Passport to any you’ve unlocked via [[ascents]]! }}
+
+[[Category:PEAK]]

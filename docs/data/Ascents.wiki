@@ -1,0 +1,80 @@
+[[Category:Mechanics]]
+'''Ascents''' serve as the difficulty system for {{peak game}}. Each Ascent is unlocked by completing the prior difficulty, and they add compounding challenges to the expedition. The Ascents are selected at the Gate Kiosk in the [[Airport]] when starting the game. Only one player needs to have an Ascent unlocked to start the game, and all players receive the relevant rewards on completion, even if they haven't cleared the prior Ascents.
+
+[[Badges]] can be earned regardless of Challenge level.
+
+{| class="wikitable"
+ ! Name
+ ! Description
+ ! Reward
+ ! Unlock Condition
+|-
+ | id="Tenderfoot" | {{Anchor|Tenderfoot}}Tenderfoot
+ |
+* Climbing takes less [[stamina]].
+*: <small>(30% lower consumption)</small>
+* {{Hunger}} grows more slowly.
+*: <small>(30% slower growth)</small>
+* No [[Fog|time limit]].
+ | None
+ | Available by default.
+|-
+ | id="Peak" | {{Anchor|Peak}}Peak
+ |
+* The [[Island]]'s default difficulty.
+ | {{Sash|1}}
+ | Available by default.
+|-
+ | id="Ascent 1" | {{Anchor|Ascent 1}}Ascent 1
+ |
+* {{Damage|label=Fall damage}} is greater.
+*: <small>(all fall damage is multiplied by 2)</small>
+ | {{Sash|2}}
+ | Successfully complete Peak difficulty.
+|-
+ | id="Ascent 2" | {{Anchor|Ascent 2}}Ascent 2
+ |
+* {{Hunger}} grows faster.
+*: <small>(60% faster growth)</small>
+* ''And all previous modifiers.''
+ | {{Sash|3}}
+ | Successfully complete Ascent 1 difficulty.
+|-
+ | id="Ascent 3" | {{Anchor|Ascent 3}}Ascent 3
+ |
+* Items have increased {{Weight}}.
+*: <small>(flat +2.5 weight for all items except backpacks)</small>
+* ''And all previous modifiers.''
+ | {{Sash|4}}
+ | Successfully complete Ascent 2 difficulty.
+|-
+ | id="Ascent 4" | {{Anchor|Ascent 4}}Ascent 4
+ |
+* There are no {{Item|Flare}}s atop the [[Peak (biome)|Peak]].
+* ''And all previous modifiers.''
+ | {{Sash|5}}
+ | Successfully complete Ascent 3 difficulty.
+|-
+ | id="Ascent 5" | {{Anchor|Ascent 5}}Ascent 5
+ |
+* The [[night]] is {{Cold}}.
+* ''And all previous modifiers.''
+ | {{Sash|6}}
+ | Successfully complete Ascent 4 difficulty.
+|-
+ | id="Ascent 6" | {{Anchor|Ascent 6}}Ascent 6
+ |
+* Climbing takes additional [[stamina]].
+*: <small>(40% higher consumption)</small>
+* ''And all previous modifiers.''
+ | {{Sash|7}}
+ | Successfully complete Ascent 5 difficulty.
+|-
+ | id="Ascent 7" | {{Anchor|Ascent 7}}Ascent 7
+ |
+* You cannot [[revive]] the dead.
+*: <small>(Without using a {{Item|Scout Effigy|size=22px}})</small>
+* ''And all previous modifiers.''
+ | {{Sash|8}}<br>{{Item|Goat Horns}}
+ | Successfully complete Ascent 6 difficulty.
+|}

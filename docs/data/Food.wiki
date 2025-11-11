@@ -1,0 +1,795 @@
+__FORCETOC__
+{{Cleanup}}
+'''Food''' in {{Peak game}} can be consumed to reduce {{Hunger}} or gain {{Bonus}}. Some foods are {{Poison|label=poisonous}}, while others have additional effects, such as healing {{Injury}} or removing {{Heat}}.
+
+Players can forage for various [[#Natural food|natural foods]], such as fruits, [[#Mushrooms|mushrooms]], or find [[#Packaged food|packaged food]] in [[Luggage]].
+
+Food can be [[Cooking|cooked]] to double the amount of [[hunger]] restored and increase its [[bonus stamina]].
+
+The tables below list every food item obtainable in the game, including their nutritional properties, weight, additional effects, and other notes.
+
+== Natural food ==
+Natural food can be found in almost every [[biome]]. It can be used to earn the {{badge|Naturalist}}. [[Mystical]] items, such as the {{Item|Cure-All}} and {{Item|Pandora's Lunchbox}}, are also safe for the badge.
+
+{| class="wikitable sortable"
+! rowspan="2" class="unsortable" | Icon
+! rowspan="2" | Name
+! rowspan="2" | Hunger reduction 
+! rowspan="2" | Hunger reduction<br>(cooked)
+! rowspan="2" | Bonus Stamina
+! rowspan="2" | Bonus Stamina<br>(cooked)
+! rowspan="2" | Weight
+! rowspan="2" | Poison
+! colspan="2" | Hunger-to-Weight ratio<br>(cooked)
+! rowspan="2" class="unsortable" | Location
+! rowspan="2" class="unsortable" | Notes
+|-
+!Base
+!Ascent 3
+|-
+| {{icon|Half-Coconut|size=64px}}
+| [[Half-Coconut]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2.7
+|
+* [[Shore]]
+* [[Tropics]]
+* [[Mesa]]
+|
+* '''Source:''' Breaking a large {{Item|Coconut}} gives 2x [[Half-Coconut|Half-Coconuts]].
+* Removes {{Heat|30}}.
+* Part of the {{badge|Gourmand}}.
+|-
+| {{icon|Red Crispberry|size=64px}}
+| [[Red Crispberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+|
+* [[Shore]]
+* [[Tropics]]
+|
+|-
+| {{icon|Yellow Crispberry|size=64px}}
+| [[Yellow Crispberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|15|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+|
+* [[Shore]]
+* [[Tropics]]
+|
+|-
+| {{icon|Green Crispberry|size=64px}}
+| [[Green Crispberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="negEffect" style="text-align: center;" | {{Poison|10|label=}}
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+|
+* [[Shore]]
+* [[Tropics]]
+|
+* After 2 seconds, inflicts {{Poison|10}} over 4 seconds.
+|-
+| {{icon|Honeycomb|size=64px}}
+| [[Honeycomb]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|50|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|75|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+* [[Tropics]]
+* [[Roots]]
+|
+* '''Source:''' Breaking a {{Item|Beehive}} gives 4x [[Honeycomb|Honeycombs]].
+* Part of the {{badge|Gourmand}}.
+|-
+| {{icon|Scorchberry|size=64px}}
+| [[Scorchberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+* [[Tropics]]
+|
+* Inflicts {{Heat|25}}.
+|-
+| {{icon|Purple Kingberry|size=64px}}
+| [[Purple Kingberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-60|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|35|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|52.5|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 8
+|
+* [[Tropics]]
+|
+|-
+| {{icon|Yellow Kingberry|size=64px}}
+| [[Yellow Kingberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-60|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| class="negEffect" style="text-align: center;" | {{Poison|25|label=}}
+| style="text-align: center;" | 12
+| style="text-align: center;" | 8
+|
+* [[Tropics]]
+|
+* After 3 seconds, inflicts {{Poison|25}} over 10 seconds.
+|-
+| {{icon|Green Kingberry|size=64px}}
+| [[Green Kingberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-60|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| class="negEffect" style="text-align: center;" | {{Poison|5|label=}}
+| style="text-align: center;" | 12
+| style="text-align: center;" | 8
+|
+* [[Tropics]]
+|
+* Inflicts {{Poison|5}} immediately.
+|-
+| {{icon|Yellow Berrynana|size=64px}}
+| [[Yellow Berrynana]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Tropics]]
+|
+* Produces a {{Item|Yellow Berrynana Peel}} after eating.
+|-
+| {{icon|Pink Berrynana|size=64px}}
+| [[Pink Berrynana]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="negEffect" style="text-align: center;" | {{Poison|15|label=}}
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Tropics]]
+|
+* Produces a {{Item|Pink Berrynana Peel}} after eating.
+* After 2 seconds, inflicts {{Poison|15}} over 6 seconds.
+|-
+| {{icon|Blue Berrynana|size=64px}}
+| [[Blue Berrynana]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-60|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 24
+| style="text-align: center;" | 12
+|
+* [[Tropics]]
+|
+* Produces a {{Item|Blue Berrynana Peel}} after eating.
+|-
+| {{icon|Brown Berrynana|size=64px}}
+| [[Brown Berrynana]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|15|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Tropics]]
+|
+* Produces a {{Item|Brown Berrynana Peel}} after eating.
+|-
+| {{icon|Yellow Clusterberry|size=64px}}
+| [[Yellow Clusterberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|15|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+* [[Tropics]]
+|
+|-
+| {{icon|Red Clusterberry|size=64px}}
+| [[Red Clusterberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+* [[Tropics]]
+|
+* Heals {{Injury|20}}.
+|-
+| {{icon|Black Clusterberry|size=64px}}
+| [[Black Clusterberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-40|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 16
+| style="text-align: center;" | 8
+|
+* [[Tropics]]
+|
+|-
+| {{icon|Orange Winterberry|size=64px}}
+| [[Orange Winterberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Alpine]]
+|
+* Removes {{Heat|30}}.
+|-
+| {{icon|Yellow Winterberry|size=64px}}
+| [[Yellow Winterberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-60|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|35|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|52.5|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 24
+| style="text-align: center;" | 12
+|
+* [[Alpine]]
+* [[Mesa]]
+|
+* Removes {{Heat|50}}.
+* Heals {{Injury|20}}.
+* Part of the {{badge|Gourmand}}.
+|-
+| {{icon|Red Prickleberry|size=64px}}
+| [[Red Prickleberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Mesa]]
+|
+* Inflicts {{Thorns|10}}.
+* Removes {{Heat|10}}.
+|-
+| {{icon|Gold Prickleberry|size=64px}}
+| [[Gold Prickleberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Mesa]]
+|
+* Inflicts {{Thorns|10}}.
+* Removes {{Heat|10}}.
+* Heals {{Injury|10}}.
+|-
+| {{icon|Medicinal Root|size=64px}}
+| [[Medicinal Root]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | {{Poison|-25|label=}}
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+|
+* [[Shore]]
+* [[Tropics]]
+* [[Mesa]]
+* [[Roots]]
+|
+* Removes {{Poison|25}}.
+* Heals {{Injury|10}}.
+|-
+| {{icon|Mandrake|size=64px}}
+| [[Mandrake]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+* [[Roots]]
+|
+* '''Source:''' When uprooting a {{Item|Medicinal Root}}, there is a 50% chance it will instead be a {{Item|Mandrake}}.
+* Hides [[Stamina bar]] for 60s when eaten uncooked.
+* Part of the {{badge|Cryptogastronomy}}.
+|-
+| {{icon|Marshmallow|size=64px}}
+| [[Marshmallow]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+* [[Campfire|Campfires]]
+|
+* 62.5% chance to appear instead of a {{Item|Hot Dog}}
+|-
+| {{icon|Hot Dog|size=64px}}
+| [[Hot Dog]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-60|label=}}
+| class="" style="text-align: center;" | {{Bonus|20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|30|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 24
+| style="text-align: center;" | 12
+|
+* [[Campfire|Campfires]]
+|
+* 37.5% chance to appear instead of a {{Item|Marshmallow}}
+|-
+| {{icon|Egg|size=64px}}
+| [[Egg]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 6
+| style="text-align: center;" | 4
+|
+* [[Caldera]]
+|
+* '''Source:''' Made upon breaking a {{Item|Big Egg}}.
+* Part of the {{badge|Gourmand}}.
+|-
+| {{icon|Cooked Bird|size=64px}}
+| [[Cooked Bird]]
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Hunger|-40|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 4
+| style="text-align: center;" | 3.2
+|
+* [[Caldera]]
+|
+* '''Source:''' Has a 10% chance to spawn from a {{Item|Big Egg}} instead of an {{Item|Egg}}.
+|-
+| {{icon|Tick|size=64px}}
+| [[Tick]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-40|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 16
+| style="text-align: center;" | 8
+|
+* [[Tropics]]
+|
+* Inflicts {{Poison}} over time until removed.
+* Consuming does not inflict poison.
+|-
+| id="Cooked Scorpion" | {{icon|Scorpion|size=64px}}
+| Cooked [[Scorpion]]
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+* [[Mesa]]
+|
+* Obtained by [[cooking]] a [[scorpion]] manually or with a {{Item|Dynamite}} explosion.
+* Cannot be eaten raw.
+* Can be held, but not placed into any inventory slot.
+|-
+| {{icon|Cure-All|size=64px}}
+| [[Cure-All]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| style="text-align: center;" | [[Cure-All#Cooked|see here]]
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| class="" style="text-align: center;" | &mdash;
+| style="text-align: center;" | 12
+| style="text-align: center;" | 8
+|
+* [[Ancient Statue]]
+* [[Ancient Luggage]]
+|
+* Has 3 uses ({{Hunger|-60}} in total).
+* Removes a certain amount of negative [[Stamina bar|effects]], including {{Curse}} (see the full page for details).
+|-
+| {{icon|Pandora's Lunchbox|size=64px}}
+| [[Pandora's Lunchbox]]
+| style="text-align: center;" | Random
+| style="text-align: center;" | [[Pandora's Lunchbox#Cooked|Random*]]
+| style="text-align: center;" | Random
+| style="text-align: center;" | [[Pandora's Lunchbox#Cooked|Random*]]
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| class="" style="text-align: center;" | Random
+| style="text-align: center;" | ?
+| style="text-align: center;" | ?
+|
+* [[Ancient Statue]]
+* [[Ancient Luggage]]
+|
+* Has 3 uses.
+* Randomizes the user's [[Stamina bar|status effects]].
+* No bonus effects from cooking.
+|}
+
+== Packaged food ==
+Packaged food is found inside [[Luggage]]. Consuming any packaged food prevents the players from earning the {{Badge|Naturalist}} in the same run.
+
+{| class="wikitable sortable"
+! rowspan="2" class="unsortable" | Icon
+! rowspan="2" | Food
+! rowspan="2" | Hunger
+! rowspan="2" | Hunger<br>(when cooked)
+! rowspan="2" | Bonus Stamina
+! rowspan="2" | Bonus Stamina<br>(when cooked)
+! rowspan="2" | Weight
+! colspan="2" | Hunger-to-Weight ratio<br>(cooked)
+! rowspan="2" class="unsortable" | Notes
+|-
+! Base
+! Ascent 3
+|-
+| {{icon|Airline Food|size=64px}}
+| [[Airline Food]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-40|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-80|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|40|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|60|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 16
+| style="text-align: center;" | 10.7
+|
+|-
+| {{icon|Big Lollipop|size=64px}}
+| [[Big Lollipop]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+|
+* Grants infinite [[stamina]] temporarily.
+* Inflicts {{Drowsy|32.5}} over 10 seconds afterwards.
+|-
+| {{icon|Energy Drink|size=64px}}
+| [[Energy Drink]]
+| class="" style="text-align: center;" | &mdash;
+| class="" style="text-align: center;" | &mdash;
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | &mdash;
+| style="text-align: center;" | &mdash;
+|
+* Removes {{Drowsy|100}}
+* Removes {{Heat|30}}
+* Grants a temporary speed boost.
+* Inflicts {{Drowsy|25}} afterwards plus previous Drowsy.
+|-
+| {{icon|Fortified Milk|size=64px}}
+| [[Fortified Milk]]
+| class="" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | &mdash;
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+|
+* Removes {{Heat|50}}.
+* Grants a '''15s''' shield that stops the accumulation of new status effects, except for weight.
+* Also heals for {{Injury|100}} when consumed by a [[skeleton]].
+|-
+| {{icon|Granola Bar|size=64px}}
+| [[Granola Bar]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|30|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+|
+|-
+| {{icon|Scout Cookies|size=64px}}
+| [[Scout Cookies]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|15|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 16
+| style="text-align: center;" | 10.7
+|
+* Has 4 uses (total {{Hunger|-40}} if uncooked, {{Hunger|-80}} if cooked).
+|-
+| {{icon|Sports Drink|size=64px}}
+| [[Sports Drink]]
+| class="" style="text-align: center;" | &mdash;
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|30|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|45|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | &mdash;
+| style="text-align: center;" | &mdash;
+|
+* Removes {{Heat|200}}
+|-
+| {{icon|Trail Mix|size=64px}}
+| [[Trail Mix]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|15|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+|
+|}
+
+== Mushrooms ==
+Mushroom spawn locations are predetermined by the [[Island|seed]], although the same location may spawn a different number of mushrooms (including none) every time a run is started.
+
+Mushrooms are considered natural food and thus are safe for the {{Badge|Naturalist}}.
+
+{| class="wikitable sortable"
+! rowspan="2" class="unsortable" | Icon<br>(normal)
+! rowspan="2" class="unsortable" | Icon<br>(poisonous)
+! rowspan="2" | Mushroom
+! rowspan="2" | Hunger
+! rowspan="2" | Hunger<br>(when cooked)
+! rowspan="2" | Bonus Stamina
+! rowspan="2" | Bonus Stamina<br>(when cooked)
+! rowspan="2" | Weight
+! colspan="2" | Hunger-to-Weight ratio<br>(cooked)
+! rowspan="2" | Poison<br>(for poisonous)
+! rowspan="2" | Poison delay
+! rowspan="2" | Poison time
+! rowspan="2" class="unsortable" | Location
+|-
+! Base
+! Ascent 3
+|-
+| style="text-align: center;" | {{icon|Bugle Shroom|size=64px}}
+| style="text-align: center;" | {{icon|Bugle Shroom Poison|size=64px|link=Bugle Shroom}}
+| [[Bugle Shroom]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-15|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-30|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 12
+| style="text-align: center;" | 6
+| style="text-align: center;" |{{Poison|20|label=}}
+| style="text-align: center;" | 10 seconds
+| style="text-align: center;" | 8 seconds
+|
+* [[Shore]]
+* [[Tropics]]
+* [[Mesa]]
+* [[Roots]]
+|-
+| style="text-align: center;" | {{icon|Button Shroom|size=64px}}
+| style="text-align: center;" | {{icon|Button Shroom Poison|size=64px|link=Button Shroom}}
+| [[Button Shroom]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| style="text-align: center;" |{{Poison|30|label=}}
+| style="text-align: center;" | 10 seconds
+| style="text-align: center;" | 12 seconds
+|
+* [[Shore]]
+* [[Tropics]]
+* [[Mesa]]
+* [[Roots]]
+|-
+| style="text-align: center;" | {{icon|Chubby Shroom|size=64px}}
+| style="text-align: center;" | {{na}}
+| [[Chubby Shroom]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| colspan="3" style="text-align: center;" |No poisonous variant.
+|
+* [[Shore]]
+* [[Tropics]]
+* [[Mesa]]
+* [[Roots]]
+|-
+| style="text-align: center;" | {{icon|Cluster Shroom|size=64px}}
+| style="text-align: center;" | {{icon|Cluster Shroom Poison|size=64px|link=Cluster Shroom}}
+| [[Cluster Shroom]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-5|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="" style="text-align: center;" | &mdash;
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|2.5|label=}}
+| style="text-align: center;" | 4
+| style="text-align: center;" | 2
+| style="text-align: center;" |{{Poison|40|label=}}
+| style="text-align: center;" | 10 seconds
+| style="text-align: center;" | 16 seconds
+|
+* [[Shore]]
+* [[Tropics]]
+* [[Mesa]]
+* [[Roots]]
+|-
+| {{icon|Red Shroomberry|size=64px}}
+| style="text-align: center;" | {{na}}
+| [[Red Shroomberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|5|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| style="text-align: center;" | {{Spores|5|label=}}
+| style="text-align: center;" colspan="2" | Instant
+|
+* [[Roots]]
+|-
+| {{icon|Yellow Shroomberry|size=64px}}
+| style="text-align: center;" | {{na}}
+| [[Yellow Shroomberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|5|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| style="text-align: center;" | {{Spores|5|label=}}
+| style="text-align: center;" colspan="2" | Instant
+|
+* [[Roots]]
+|-
+| {{icon|Green Shroomberry|size=64px}}
+| style="text-align: center;" | {{na}}
+| [[Green Shroomberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|5|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| style="text-align: center;" | {{Spores|5|label=}}
+| style="text-align: center;" colspan="2" | Instant
+|
+* [[Roots]]
+|-
+| {{icon|Blue Shroomberry|size=64px}}
+| style="text-align: center;" | {{na}}
+| [[Blue Shroomberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|5|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| style="text-align: center;" | {{Spores|5|label=}}
+| style="text-align: center;" colspan="2" | Instant
+|
+* [[Roots]]
+|-
+| {{icon|Purple Shroomberry|size=64px}}
+| style="text-align: center;" | {{na}}
+| [[Purple Shroomberry]]
+| class="posEffect" style="text-align: center;" | {{Hunger|-10|label=}}
+| class="posEffect" style="text-align: center;" | {{Hunger|-20|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|5|label=}}
+| class="posEffect" style="text-align: center;" | {{Bonus|10|label=}}
+| style="text-align: center;" | {{Weight|5|label=}}
+| style="text-align: center;" | 8
+| style="text-align: center;" | 4
+| style="text-align: center;" | {{Spores|5|label=}}
+| style="text-align: center;" colspan="2" | Instant
+|
+* [[Roots]]
+|}
