@@ -42,7 +42,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **获取**: 行李箱、医疗点
 - **成就**: 复活3名童子军获得救星奖章
 
-### ![icon](../images/items/x64/Blowgun.png) 吹箭筒 (Blowgun)
+### ![icon](../images/items/x64/HealingDart Variant.png) 吹箭筒 (Blowgun)
 - **重量**: 2.5
 - **效果**:
   - 发射单支飞镖，命中童子军后:
@@ -71,18 +71,18 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **获取**: 探险途中、行李箱
 - **注意**: 顶峰没有照明棒
 
-### ![icon](../images/items/x64/HeatPack.png) 暖宝宝 (Heat Pack)
+### ![icon](../images/items/x64/Heat Pack.png) 暖宝宝 (Heat Pack)
 - **重量**: 0
 - **效果**: 在60秒内移除寒冷 -360
 - **获取**: 行李箱
 - **适用环境**: 雪山、顶峰
 
-### ![icon](../images/items/x64/RemedyFungus.png) 灵药菇 (Remedy Fungus)
+### ![icon](../images/items/x64/HealingPuffShroom.png) 灵药菇 (Remedy Fungus)
 - **重量**: 2.5
 - **效果**: 丢下时产生烟雾云，随时间为云内童子军移除受伤 -45和中毒 -30
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/RescueClaw.png) 救援抓钩 (Rescue Claw)
+### ![icon](../images/items/x64/RescueHook.png) 救援抓钩 (Rescue Claw)
 - **重量**: 2.5
 - **效果**:
   - 将童子军拉向地形，或将其他童子军拉向使用者
@@ -90,7 +90,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **成就**: 灾害响应奖章 - 使用救援抓钩将昏迷朋友拖行30米
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/Scroll.png) 卷轴 (Scroll)
+### ![icon](../images/items/x64/GuidebookPageScroll Variant.png) 卷轴 (Scroll)
 - **重量**: 0
 - **效果**: 打开后显示撕页
 - **获取**: 行李箱、特殊地点
@@ -112,7 +112,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **成就**: 菌类杂技奖章 - 从蘑菇上弹起40米高
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/ChainLauncher.png) 锁链发射器 (Chain Launcher)
+### ![icon](../images/items/x64/ChainShooter.png) 锁链发射器 (Chain Launcher)
 - **重量**: 2.5
 - **效果**:
   - 在两点之间创建可攀爬的锁链
@@ -120,12 +120,12 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
   - 不能向上发射锁链
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/CheckpointFlag.png) 检查点旗标 (Checkpoint Flag)
+### ![icon](../images/items/x64/Flag_Plantable_Checkpoint.png) 检查点旗标 (Checkpoint Flag)
 - **重量**: 2.5
 - **效果**: 为放置者创建一次性重生检查点，保存和恢复放置时的所有状态
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/CloudShroom.png) 云雾菇 (Cloud Fungus)
+### ![icon](../images/items/x64/CloudFungus.png) 云雾菇 (Cloud Fungus)
 - **重量**: 2.5
 - **效果**:
   - 投掷到墙上时创建平台
@@ -137,7 +137,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **效果**: 丢下或投掷后3秒开始生长藤蔓，无阻碍时可长到10米高
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/Piton.png) 岩钉 (Piton)
+### ![icon](../images/items/x64/ClimbingSpike.png) 岩钉 (Piton)
 - **ID**: 99
 - **重量**: 2.5
 - **效果**:
@@ -148,7 +148,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **成就**: 攀岩奖章 - 放置10根岩钉
 - **注意**: 使用岩钉会影响环保奖章
 
-### ![icon](../images/items/x64/PortableStove.png) 便携火炉 (Portable Stove)
+### ![icon](../images/items/x64/PortableStovetopItem.png) 便携火炉 (Portable Stove)
 - **重量**: 5
 - **效果**:
   - 用于烹饪道具
@@ -156,7 +156,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
   - 放置后持续60秒
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/RopeCannon.png) 绳索炮 (Rope Cannon)
+### ![icon](../images/items/x64/RopeShooter.png) 绳索炮 (Rope Cannon)
 - **重量**: 2.5
 - **效果**: 发射鱼叉，接触兼容表面时释放7.5米绳索
 - **获取**: 行李箱
@@ -170,7 +170,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **获取**: 行李箱
 - **成就**: 急救奖章 - 单次探险放置100米绳索
 
-### ![icon](../images/items/x64/ScoutCannon.png) 童子军大炮 (Scout Cannon)
+### ![icon](../images/items/x64/ScoutCannonItem.png) 童子军大炮 (Scout Cannon)
 - **重量**: 15
 - **效果**:
   - 可垂直瞄准
@@ -218,7 +218,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **效果**: 指向顶峰
 - **获取**: 行李箱
 
-### ![icon](../images/items/x64/FlyingDisc.png) 飞盘 (Flying Disc)
+### ![icon](../images/items/x64/Frisbee.png) 飞盘 (Flying Disc)
 - **重量**: 0
 - **效果**: 可以投掷给其他童子军进行撞击
 - **成就**: 极限奖章 - 从100米外接住飞盘
@@ -270,7 +270,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **获取**: 仅在古墓中
 - **成就**: 24K奖章 - 将其投入熔窑的熔岩中
 
-### ![icon](../images/items/x64/Anti-Rope Cannon.png) 反重绳索炮 (Anti-Rope Cannon)
+### ![icon](../images/items/x64/RopeShooterAnti.png) 反重绳索炮 (Anti-Rope Cannon)
 - **重量**: 0
 - **效果**:
   - 发射鱼叉，接触兼容表面时释放一段反重力绳索
@@ -288,7 +288,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
   - 烹饪后会破碎
 - **获取**: 古老行李箱、秘密地点
 
-### ![icon](../images/items/x64/BugleOfFriendship.png) 友谊喇叭 (Bugle of Friendship)
+### ![icon](../images/items/x64/Bugle_Magic.png) 友谊喇叭 (Bugle of Friendship)
 - **重量**: 2.5
 - **效果**:
   - 使用时演奏音符
@@ -297,7 +297,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
 - **限制**: 单人游戏中不会生成
 - **获取**: 古老行李箱
 
-### ![icon](../images/items/x64/CureAll.png) 万灵药 (Cure-All)
+### ![icon](../images/items/x64/Cure-All.png) 万灵药 (Cure-All)
 - **重量**: 2.5
 - **使用次数**: 3次
 - **效果**: 移除饥饿 -20、中毒 -35、孢子 -35、受伤 -35、昏睡 -35、寒冷 -35、热量 -35、尖刺 -25、诅咒 -5
@@ -306,7 +306,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
   - 丢下万灵药会使其破碎
 - **获取**: 古老行李箱
 
-### ![icon](../images/items/x64/CursedSkull.png) 诅咒骷髅 (Cursed Skull)
+### ![icon](../images/items/x64/Cursed Skull.png) 诅咒骷髅 (Cursed Skull)
 - **重量**: 5
 - **效果**:
   - 使用会立即杀死持有者
@@ -322,20 +322,20 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
   - 放在背包中时保持点燃状态
 - **获取**: 古老行李箱
 
-### ![icon](../images/items/x64/Pandoras Lunchbox.png) 潘多拉餐盒 (Pandora's Lunchbox)
+### ![icon](../images/items/x64/PandorasBox.png) 潘多拉餐盒 (Pandora's Lunchbox)
 - **重量**: 2.5
 - **使用次数**: 3次
 - **效果**: 清除所有状态，然后随机化饥饿、额外体力、受伤、中毒、孢子、寒冷、热量和昏睡
 - **特点**: 烹饪会导致餐盒爆炸但立即对玩家造成一次使用效果
 - **获取**: 古老行李箱
 
-### ![icon](../images/items/x64/Scout Effigy.png) 童子军雕像 (Scout Effigy)
+### ![icon](../images/items/x64/ScoutEffigy.png) 童子军雕像 (Scout Effigy)
 - **重量**: 5
 - **效果**: 用于在目标位置复活死亡的童子军
 - **限制**: 单人游戏中不会生成
 - **获取**: 古老行李箱
 
-### ![icon](../images/items/x64/ScoutmasterBugle.png) 童军领队的喇叭 (Scoutmaster's Bugle)
+### ![icon](../images/items/x64/Bugle_Scoutmaster Variant.png) 童军领队的喇叭 (Scoutmaster's Bugle)
 - **重量**: 2.5
 - **效果**:
   - 使用者和附近童子军获得额外体力 +100
@@ -355,7 +355,7 @@ PEAK游戏中的装备道具详细信息。装备道具可以帮助童子军在�
   - 烹饪会恢复诅咒 -25而不是造成伤害
 - **获取**: 古老行李箱
 
-### ![icon](../images/items/x64/WarpCompass.png) 曲迁罗盘 (Warp Compass)
+### ![icon](../images/items/x64/Warp Compass.png) 曲迁罗盘 (Warp Compass)
 - **重量**: 0
 - **效果**: 具体效果未知（神秘道具）
 - **获取**: 古老行李箱
