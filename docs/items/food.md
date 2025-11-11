@@ -33,21 +33,21 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 - **位置**：海岸、雨林、台地
 - **成就相关**：美食家奖章
 
-#### ![icon](../images/items/x64/Apple Berry Red.png) 红脆莓 (Red Crispberry)
+#### ![icon](../images/items/x64/Apple%20Berry%20Red.png) 红脆莓 (Red Crispberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **位置**：海岸、雨林
 - **特点**：基础浆果，无负面效果
 
-#### ![icon](../images/items/x64/Apple Berry Yellow.png) 黄脆莓 (Yellow Crispberry)
+#### ![icon](../images/items/x64/Apple%20Berry%20Yellow.png) 黄脆莓 (Yellow Crispberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：+10（烹饪后：+15）
 - **重量**：2.5
 - **位置**：海岸、雨林
 - **特点**：提供额外体力
 
-#### ![icon](../images/items/x64/Apple Berry Green.png) 绿脆莓 (Green Crispberry)
+#### ![icon](../images/items/x64/Apple%20Berry%20Green.png) 绿脆莓 (Green Crispberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
@@ -63,28 +63,28 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 - **位置**：雨林、森蕈
 - **成就相关**：美食家奖章
 
-#### ![icon](../images/items/x64/Pepper Berry.png) 火烧莓 (Scorchberry)
+#### ![icon](../images/items/x64/Pepper%20Berry.png) 火烧莓 (Scorchberry)
 - **饥饿恢复**：-10（烹饪后：-20）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **特效**：增加25点热量
 - **位置**：雨林
 
-#### ![icon](../images/items/x64/Kingberry Purple.png) 紫荔莓 (Purple Kingberry)
+#### ![icon](../images/items/x64/Kingberry%20Purple.png) 紫荔莓 (Purple Kingberry)
 - **饥饿恢复**：-30（烹饪后：-60）
 - **额外体力**：+35（烹饪后：+52.5）
 - **重量**：5
 - **位置**：雨林
 - **特点**：高营养价值
 
-#### ![icon](../images/items/x64/Kingberry Yellow.png) 黄荔莓 (Yellow Kingberry)
+#### ![icon](../images/items/x64/Kingberry%20Yellow.png) 黄荔莓 (Yellow Kingberry)
 - **饥饿恢复**：-30（烹饪后：-60）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：5
 - **中毒**：+25
 - **位置**：雨林
 
-#### ![icon](../images/items/x64/Kingberry Green.png) 青荔莓 (Green Kingberry)
+#### ![icon](../images/items/x64/Kingberry%20Green.png) 青荔莓 (Green Kingberry)
 - **饥饿恢复**：-30（烹饪后：-60）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：5
@@ -93,27 +93,27 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 
 ### 莓蕉类 (Berrynana)
 
-#### ![icon](../images/items/x64/Berrynana Yellow.png) 黄莓蕉 (Yellow Berrynana)
+#### ![icon](../images/items/x64/Berrynana%20Yellow.png) 黄莓蕉 (Yellow Berrynana)
 - **饥饿恢复**：-10（烹饪后：-20）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **位置**：海岸、雨林
 
-#### ![icon](../images/items/x64/Berrynana Pink.png) 粉莓蕉 (Pink Berrynana)
+#### ![icon](../images/items/x64/Berrynana%20Pink.png) 粉莓蕉 (Pink Berrynana)
 - **饥饿恢复**：-10（烹饪后：-20）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **特效**：移除30点受伤
 - **位置**：海岸、雨林
 
-#### ![icon](../images/items/x64/Berrynana Blue.png) 蓝莓蕉 (Blue Berrynana)
+#### ![icon](../images/items/x64/Berrynana%20Blue.png) 蓝莓蕉 (Blue Berrynana)
 - **饥饿恢复**：-10（烹饪后：-20）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **特效**：移除30点寒冷
 - **位置**：海岸、雨林
 
-#### ![icon](../images/items/x64/Berrynana Brown.png) 棕莓蕉 (Brown Berrynana)
+#### ![icon](../images/items/x64/Berrynana%20Brown.png) 棕莓蕉 (Brown Berrynana)
 - **饥饿恢复**：-10（烹饪后：-20）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
@@ -122,19 +122,19 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 
 ### 葚莓类 (Clusterberry)
 
-#### ![icon](../images/items/x64/Clusterberry Yellow.png) 黄葚莓 (Yellow Clusterberry)
+#### ![icon](../images/items/x64/Clusterberry%20Yellow.png) 黄葚莓 (Yellow Clusterberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **位置**：雪山
 
-#### ![icon](../images/items/x64/Clusterberry Red.png) 红葚莓 (Red Clusterberry)
+#### ![icon](../images/items/x64/Clusterberry%20Red.png) 红葚莓 (Red Clusterberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **位置**：雪山
 
-#### ![icon](../images/items/x64/Clusterberry Black.png) 黑葚莓 (Black Clusterberry)
+#### ![icon](../images/items/x64/Clusterberry%20Black.png) 黑葚莓 (Black Clusterberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
@@ -149,13 +149,13 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 
 ### 雪莓类 (Winterberry)
 
-#### ![icon](../images/items/x64/Winterberry Orange.png) 橙雪莓 (Orange Winterberry)
+#### ![icon](../images/items/x64/Winterberry%20Orange.png) 橙雪莓 (Orange Winterberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
 - **位置**：雪山
 
-#### ![icon](../images/items/x64/Winterberry Yellow.png) 黄雪莓 (Yellow Winterberry)
+#### ![icon](../images/items/x64/Winterberry%20Yellow.png) 黄雪莓 (Yellow Winterberry)
 - **饥饿恢复**：-5（烹饪后：-10）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
@@ -243,27 +243,27 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 
 蘑菇需要在营火处烹饪才能食用，生吃会中毒。单次探险食用四种无毒蘑菇可获得成就。
 
-#### ![icon](../images/items/x64/Mushroom Chubby.png) 梨鲍菇 (Chubby Shroom)
+#### ![icon](../images/items/x64/Mushroom%20Chubby.png) 梨鲍菇 (Chubby Shroom)
 - **效果**：可食用
 - **重量**：2.5
 - **位置**：雨林、森蕈、雪山
 
-#### ![icon](../images/items/x64/Mushroom Glow.png) 诡异菇 (Weird Shroom)
+#### ![icon](../images/items/x64/Mushroom%20Glow.png) 诡异菇 (Weird Shroom)
 - **效果**：发光照明
 - **重量**：2.5
 - **位置**：森蕈、雪山
 
-#### ![icon](../images/items/x64/Mushroom Lace Poison.png) 喇叭菇 (Bugle Shroom)
+#### ![icon](../images/items/x64/Mushroom%20Lace%20Poison.png) 喇叭菇 (Bugle Shroom)
 - **效果**：待补充
 - **重量**：2.5
 - **位置**：待补充
 
-#### ![icon](../images/items/x64/Mushroom Normie Poison.png) 馒头菇 (Button Shroom)
+#### ![icon](../images/items/x64/Mushroom%20Normie%20Poison.png) 馒头菇 (Button Shroom)
 - **效果**：待补充
 - **重量**：2.5
 - **位置**：待补充
 
-#### ![icon](../images/items/x64/Mushroom Cluster Poison.png) 银针菇 (Cluster Shroom)
+#### ![icon](../images/items/x64/Mushroom%20Cluster%20Poison.png) 银针菇 (Cluster Shroom)
 - **效果**：待补充
 - **重量**：2.5
 - **位置**：待补充
