@@ -1,0 +1,381 @@
+{{Merge|Items}}
+
+'''Equipment''' are [[items]] in {{Peak game}} that the player can (in most cases) use to their advantage along their climb. Players will find most equipment in [[luggage]], and some at the starting [[crash site]] or the top of a [[biome]]. Their purpose and usefulness vary greatly; some can help reduce ill-effects on the [[stamina bar]], some can be used to make travel easier while others may be most suited for completing [[badges]].
+
+== List of Equipment ==
+===Consumable===
+{| class="wikitable"
+|+
+!Icon
+!Item
+!Weight
+!Notes
+|-
+|{{Icon|Antidote|size=64px}}
+|[[Antidote]]
+|{{Weight|2.5|label=}}
+|
+* Removes {{heat|10}}.
+* Removes {{poison|35}}.
+* Removes {{Status|Spores|35}}.
+|-
+|{{Icon|Balloon|size=64px}}
+|[[Balloon]]
+|{{Weight|-5|label=}}
+|
+* Lowers gravity by '''18%''' per Balloon for '''2 minutes''' or when '''100m''' has passed.
+* Using 6 Balloons at the same time allows for limited flight.
+* Can be stacked with itself and Balloon Bunches.
+* Passively removes {{Status|Weight|5}} when held, in inventory, or in a {{Item|Backpack}}.
+|-
+|{{Icon|Balloon Bunch|size=64px}}
+|[[Balloon Bunch]]
+|{{Weight|-15|label=}}
+|
+* Lowers gravity by '''54%''' per Balloon Bunch for '''2 minutes''' or when '''100m''' has passed.
+* Using 2 Balloon Bunches at the same time allows for limited flight.
+* Can be stacked with itself and Balloons.
+* Passively removes {{Status|Weight|15}} when held, in inventory, or in a {{Item|Backpack}}.
+|-
+|{{Icon|Bandages|size=64px}}
+|[[Bandages]]
+|{{Weight|2.5|label=}}
+|
+* Removes {{injury|30}}.
+* Takes 4 seconds to use.
+|-
+|{{Icon|Blowgun|size=64px}}
+|[[Blowgun]]
+|{{Weight|2.5|label=}}
+|
+* Shoots a single dart with these effects on target scout:
+** Clears all status effects except {{curse}}.
+** Inflicts {{drowsy|120}}.
+* Cannot spawn in solo play.
+|-
+|{{Icon|First Aid Kit|size=64px}}
+|[[First Aid Kit]]
+|{{Weight|5|label=}}
+|
+* Removes {{poison|100}}.
+* Removes {{Status|Spores|100}}
+* Removes {{injury|100}}.
+* Takes 5 seconds to use.
+|-
+|{{Icon|Flare|size=64px}}
+|[[Flare]]
+|{{Weight|0|label=}}
+|
+* Can be lit to display a tall column of colourful smoke matching the colour of the player's scout.
+* Summons the rescue helicopter if used at the [[Peak (biome)]].
+|-
+|{{Icon|Heat Pack|size=64px}}
+|[[Heat Pack]]
+|{{Weight|0|label=}}
+|
+* Removes {{cold|360}} over '''60''' seconds.
+|-
+|{{Icon|Remedy Fungus|size=64px}}
+|[[Remedy Fungus]]
+|{{Weight|2.5|label=}}
+|
+* Creates a cloud of smoke when dropped that removes {{injury|45}} and {{Poison|30}} over time to scouts within the cloud.
+|-
+|{{Icon|Rescue Claw|size=64px}}
+|[[Rescue Claw]]
+|{{Weight|2.5|label=}}
+|
+* Pulls the player's scout towards terrain, or other scouts towards the player's scout, with a range of '''30m''' when aiming above the horizon, and '''40m''' when aiming below.
+* Part of the {{badge|Disaster Response}}
+|-
+|{{Icon|Scroll|size=64px}}
+|[[Scroll]]
+|{{Weight|0|label=}}
+|
+* Can be opened to reveal a [[torn page]].
+|-
+|{{Icon|Sunscreen|size=64px}}
+|[[Sunscreen]]
+|{{Weight|2.5|label=}}
+|
+* Has 3 uses.
+* Sprays a cloud of sunscreen that gives temporary sun protection for '''90''' seconds.
+** Protection is given to any player that enters the cloud.
+|}
+
+===Placeable===
+{| class="wikitable"
+|+
+!Icon
+!Item
+!Weight
+!Notes
+|-
+|{{Icon|Bounce Fungus|size=64px}}
+|[[Bounce Fungus]]
+|{{Weight|2.5|label=}}
+|
+* Creates a bouncy platform aligned with the terrain it was thrown at.
+* Bouncing on it regens a portion of stamina each bounce.
+* Can be used for the {{Badge|Mycoacrobatics}}
+|-
+|{{Icon|Chain Launcher|size=64px}}
+|[[Chain Launcher]]
+|{{Weight|2.5|label=}}
+|
+* Creates a length of chain between two points that can be climbed on like a vine.
+* The chain originates from the point where the user fired the launcher.
+* The chain launcher cannot fire a chain upwards.
+|-
+|{{Icon|Checkpoint Flag|size=64px}}
+|[[Checkpoint Flag]]
+|{{Weight|2.5|label=}}
+|
+* Creates a single-use respawn checkpoint for the Scout who placed it, saving & restoring all statuses when it was placed.
+|-
+|{{Icon|Cloud Fungus|size=64px}}
+|[[Cloud Fungus]]
+|{{Weight|2.5|label=}}
+|
+* Creates a platform when it is thrown at a wall.
+* Creates a platform at the apex of a throw mid-air.
+|-
+|{{Icon|Magic Bean|size=64px}}
+|[[Magic Bean]]
+|{{Weight|2.5|label=}}
+|
+* After '''3''' seconds from being dropped or thrown it will begin to grow a vine up to '''10''' metres tall if unobstructed.
+|-
+|{{Icon|Piton|size=64px}}
+|[[Piton]]
+|{{Weight|2.5|label=}}
+|
+* Attaches to a climbable surface to provide a point for scouts to grab and rest to regenerate stamina.
+** Limited to 1 scout at a time.
+* Items from the main inventory can be used while hanging on a placed piton.
+|-
+|{{Icon|Portable Stove|size=64px}}
+|[[Portable Stove]]
+|{{Weight|5|label=}}
+|
+* Used to cook items.
+* Removes {{Status|Cold|5}} per second from Scouts within 2 metres.
+* Lasts for '''60''' seconds after being placed.
+|-
+|{{Icon|Rope Cannon|size=64px}}
+|[[Rope Cannon]]
+|{{Weight|2.5|label=}}
+|
+* Shoots a harpoon that will drop '''7.5''' metres of rope on contact with a compatible surface.
+|-
+|{{Icon|Rope Spool|size=64px}}
+|[[Rope Spool]]
+|{{Weight|2.5|label=}}
+|
+* Creates lengths of climbable rope (up to '''10''' metres) that can be attached to any climbable surface.
+* Rope is affected by gravity.
+* Each spool contains '''12.5''' metres of rope.
+|-
+|{{Icon|Scout Cannon|size=64px}}
+|[[Scout Cannon]]
+|{{Weight|15|label=}}
+|
+* Can be aimed vertically.
+* When used, places down an infinite-use cannon locked into its adjusted angle and position.
+* After a short delay after the fuse has been lit, the object or Scout inside the cannon is launched out.
+|-
+|{{Icon|Shelf Fungus|size=64px}}
+|[[Shelf Fungus]]
+|{{Weight|2.5|label=}}
+|
+* Creates a platform when it is thrown at a wall.
+|}
+
+===Usable===
+{| class="wikitable sortable"
+ ! class="unsortable" | Icon
+ ! Item
+ ! Weight
+ ! class="unsortable" | Notes
+|-
+ | {{Icon|Backpack|size=64px}}
+ | [[Backpack]]
+ | {{Weight|0|label=}}
+ |
+* Found at the crash site and campfires.
+* Can be used to carry 4 additional items.
+|-
+ | {{Icon|Bing Bong|size=64px}}
+ | [[Bing Bong]]
+ | {{Weight|5|label=}}
+ |
+* Can be used for the {{badge|Bing Bong}}.
+* Used to talk to streamers on occasion, feature deleted from the game in June.
+* Player can "ask" Bing Bong "yes or no" questions
+|-
+ | {{Icon|Binoculars|size=64px}}
+ | [[Binoculars]]
+ | {{Weight|0|label=}}
+ | 
+* Can be used for the {{badge|Astronomy}}.
+* Used to see farther.
+|-
+ | {{Icon|Bugle|size=64px}}
+ | [[Bugle]]
+ | {{Weight|0|label=}}
+ | 
+* Plays a musical note when used.
+* Can be used for the {{badge|Animal Serenading}}.
+|-
+ | {{Icon|Compass|size=64px}}
+ | [[Compass]]
+ | {{Weight|0|label=}}
+ | 
+* Points towards the [[Peak (biome)]].
+|-
+ | {{Icon|Flying Disc|size=64px}}
+ | [[Flying Disc]]
+ | {{Weight|0|label=}}
+ |
+*Can be used for the {{badge|Ultimate}}.
+* Can be thrown at other scouts to bonk them.
+|-
+ | {{Icon|Guidebook|size=64px}}
+ | [[Guidebook]]
+ | {{Weight|0|label=}}
+ | 
+* Teaches player how to play the game.
+|-
+ | {{Icon|Lantern|size=64px}}
+ | [[Lantern]]
+ | {{Weight|5|label=}}
+ |
+* Removes {{cold|150}} over '''60''' seconds from nearby players.
+* Can be extinguished to preserve the remaining fuel.
+* Will stay lit while stowed in a dropped [[Backpack]].
+|-
+ | {{Icon|Parasol|size=64px}}
+ | [[Parasol]]
+ | {{Weight|2.5|label=}}
+ |
+* Protects the player from the harsh sunlight in the [[Mesa]].
+* Slows the player's falling speed while in the air.
+|-
+ | {{Icon|Pirate's Compass|size=64px}}
+ | [[Pirate's Compass]]
+ | {{Weight|0|label=}}
+ | 
+* Points to the nearest unopened [[luggage]].
+|-
+ | {{Icon|Torch|size=64px}}
+ | [[Torch]]
+ | {{Weight|0|label=}}
+ |
+* Found only inside the [[Tomb]].
+* Provides temporary light source.
+|}
+
+== Mystical Items ==
+'''[[:Category:Mystical Items|Mystical Items]]''' are [[items]] that can only be obtained through the [[Ancient Luggage]], [[Ancient Statue]] or in secret locations. Obtaining a mystical item grants the player the {{Badge|Esoterica}}.
+
+{| class="wikitable sortable"
+ ! class="unsortable" | Icon
+ ! Item
+ ! Weight
+ ! class="unsortable" | Notes
+|-
+ | {{Icon|Ancient Idol|size=64px}}
+ | [[Ancient Idol]]
+ | {{Weight|40|label=}}
+ |
+* Found exclusively inside the [[Tomb]].
+* Grants complete invincibility from any damage or negative status effects while actively held.
+** The scout can still receive knockback from damaging sources like {{Item|Dynamite}}, which can cause falling down the mountain and losing progress.
+* Prevents consumption of {{bonus}} while actively held.
+* Can be thrown into the lava of [[The Kiln]] to receive the {{badge|24 Karat}}.
+|-
+ | {{Icon|Anti-Rope Cannon|size=64px}}
+ | [[Anti-Rope Cannon]]
+ | {{Weight|0|label=}}
+ |
+* Shoots a harpoon that will deploy a length of gravity defying anti-rope on contact with a compatible surface.
+* '''A dropped anti-rope Cannon can float away!'''
+|-
+ | {{Icon|Anti-Rope Spool|size=64px}}
+ | [[Anti-Rope Spool]]
+ | {{Weight|-2.5|label=}}
+ | 
+* Creates lengths of climbable anti-rope (up to '''10''' metres) that can be attached to any climbable surface.
+* Anti-rope will defy gravity and float upwards.
+* Each spool contains '''12.5''' metres of anti-rope.
+* '''A dropped spool of anti-rope will float upwards!'''
+|-
+ | {{Icon|Bugle of Friendship|size=64px}}
+ | [[Bugle of Friendship]]
+ | {{Weight|2.5|label=}}
+ |
+* Plays a musical note when used.
+* Gives scouts in a large radius infinite [[Stamina]] while being played, up to a total of '''7.5''' seconds.
+* Can be used for the {{badge|Animal Serenading}}.
+* Cannot spawn in solo play.
+|-
+ | {{Icon|Cure-All|size=64px}}
+ | [[Cure-All]]
+ | {{Weight|2.5|label=}}
+ |
+* Has 3 uses.
+* Removes {{Hunger|20}}, {{poison|35}}, {{Status|Spores|35}}, {{injury|35}}, {{drowsy|35}}, {{cold|35}}, {{heat|35}}, {{Thorns|25}}, and {{curse|5}}.
+* Cooking will cause the item to explode but will instantly give the player one use.
+* Dropping the Cure-All causes it to shatter.
+|-
+ | {{Icon|Cursed Skull|size=64px}}
+ | [[Cursed Skull]]
+ | {{Weight|5|label=}}
+ |
+* Use instantly kills the Scout holding it and grants other Scouts {{bonus|50}} and cleanses all negative status effects aside from {{curse}}.
+* Can only be found in [[Ancient Luggage]].
+* Cannot spawn in solo play.
+|-
+ | {{Icon|Faerie Lantern|size=64px}}
+ | [[Faerie Lantern]]
+ | {{Weight|5|label=}}
+ |
+* Removes {{heat|75}}, {{cold|150}}, {{poison|75}}, {{Status|Spores|75}}, {{drowsy|150}} and {{injury|75}} over '''30''' seconds from nearby players.
+* Can be extinguished to preserve the remaining fuel.
+* Will stay lit while stowed in a dropped [[Backpack]].
+|-
+ | {{Icon|Pandora's Lunchbox|size=64px}}
+ | [[Pandora's Lunchbox]]
+ | {{Weight|2.5|label=}}
+ |
+* Has 3 uses. 
+* Clears all status then randomizes {{hunger}}, {{bonus}}, {{injury}}, {{poison}}, {{Status|Spores}}, {{cold}}, {{heat}}, and {{drowsy}}.
+* Cooking will cause the box to explode but will instantly inflict one use on the player.
+|-
+ | {{Icon|Scout Effigy|size=64px}}
+ | [[Scout Effigy]]
+ | {{Weight|5|label=}}
+ | 
+* Used to revive a dead scout at the target location.
+* Cannot spawn in solo play.
+|-
+ | {{Icon|Scoutmaster's Bugle|size=64px}}
+ | [[Scoutmaster's Bugle]]
+ | {{Weight|2.5|label=}}
+ |
+* User and nearby scouts gain {{bonus|100}}.
+* Summons the [[Scoutmaster]] for two minutes and marks the user as his target.
+* Much rarer then other mystical items.
+|-
+ | {{Icon|The Book of Bones|size=64px}}
+ | [[The Book of Bones]]
+ | {{Weight|2.5|label=}}
+ |
+* User will become a living skeleton on self use.
+* Using on another player's skeleton will cause them to rise as a living skeleton.
+* Becoming a skeleton will deal {{curse|25}} on use.
+* Living skeleton are impervious to all afflictions other than {{injury}} and {{Curse}}.
+* {{injury}} taken is greatly increased, instantly killing the player if max stamina is overtaken.
+* Using while already a skeleton will turn you back into a normal scout, removing {{Curse|25}}.
+* Cooking will cause is to restore {{Status|Curse|25}} instead of dealing it
+|}

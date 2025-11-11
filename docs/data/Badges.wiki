@@ -1,0 +1,491 @@
+'''Badges''', also known as '''Accolades''' and '''Achievements''', are granted to players of {{Peak game}} upon completing certain actions. Once obtained, they are displayed on the [[Scout]]'s equipped [[sash]]. Every badge has an associated reward [[cosmetic]] item.
+
+A full list of badges can be viewed in-game on the Accolades screen accessible via the pause menu. Hovering over a badge shows its name and description. Badges which are not yet unlocked are greyed out, with their names replaced with question marks. The player's current [[sash]] and successful expeditions count are also shown.
+
+All badges, except {{Badge|Undead Encounter}}, can be earned under all difficulties, including [[Ascents|Tenderfoot]].
+
+== List of badges ==
+{| class="wikitable sortable"
+ ! class="unsortable" | Icon
+ ! Badge
+ ! class="unsortable" |  Criteria
+ ! Reward
+|-
+ | id="24 Karat Badge" | {{Badge|24 Karat|link=0|size=64px}}
+ | 24 Karat Badge
+ | Offer The [[Kiln]] a worthy sacrifice.
+Steps {{c|contains spoilers}}:
+# {{Spoiler|While in the [[Mesa]], locate the entrance to the [[Tomb]].}}
+#{{Spoiler|Navigate the parkour puzzle and collect the [[Ancient Idol]] at the end.}}
+# {{Spoiler|Carry the idol to the [[Kiln]] where it must be dropped into the lava. All living players receive this badge when the idol is destroyed, regardless of who threw it into the lava.}}
+ | {{Item|Bing Bong Hat|label=Bing Bong Beanie}}
+|-
+ | id="Advanced Mycology Badge" | {{Badge|Advanced Mycology|link=0|size=64px}}
+ | Advanced Mycology Badge
+ | Try all 5 types of [[Shroomberry]] in a single expedition.
+
+* When a player feeds another, the feeding player receives credit towards the badge.
+* Granted immediately upon eating your 5th type.
+| {{Item|Hat Antlers|link=Antlers|label=Antlers}}
+|-
+ | id="Aeronautics Badge" | {{Badge|Aeronautics|link=0|size=64px}}
+ | Aeronautics Badge
+ | Achieve flight.
+
+* Requires a total of six {{Item|Balloon}}s, individual or from {{Item|Balloon Bunch}}.
+** Equip all six balloons and float to receive the badge.
+| {{Item|Astronaut Helmet|link=Astronaut Helmet|label=Astronaut}} <br> {{Item|Astronaut Outfit}}
+|-
+ | id="Alpinist Badge" | {{Badge|Alpinist|link=0|size=64px}}
+ | Alpinist Badge
+ | Climb past the [[ALPINE]].
+
+* Granted to all living players when the campfire at the end is lit, even if they were just revived.
+| {{Item|Aviator Cap|link=Aviator Cap|label=Aviator Hat}}
+|-
+ | id="Animal Serenading Badge" | {{Badge|Animal Serenading|link=0|size=64px}}
+ | Animal Serenading Badge
+ | Play the {{Item|Bugle}} for a [[Capybara]].
+
+* Capybaras are found in the [[Alpine]] and [[Mesa]].
+* {{Item|Bugle of Friendship}} or {{Item|Scoutmaster's Bugle}} can also used for this badge.
+ | {{Item|Kril Hat|link=Kril Hat|label=Crab Hat}}
+|-
+ | id="Applied Esoterica Badge" | {{Badge|Applied Esoterica|link=0|size=64px}}
+ | Applied Esoterica Badge
+ | Ressurect a friend using [[The Book of Bones|unholy means]].
+
+* Granted to the player who performs the resurrection
+| {{Item|Fit SkeleOnesie|link=Skeleton Onesie|label=Skeleton Onesie}}
+|-
+ | id="Arborist Badge" | {{Badge|Arborist|link=0|size=64px}}
+ | Arborist Badge
+ | Reach the top of a really big tree.
+
+* Big trees are found in the [[Tropics]].
+* Granted immediately upon reaching the top of the largest bough.
+ | {{Item|Eyes Realistic|link=Realistic Eyes|label=Real Eyes}}
+|-
+ | id="Astronomy Badge" | {{Badge|Astronomy|link=0|size=64px}}
+ | Astronomy Badge
+ | Look a little too closely at the blazing sun.
+
+* Use the {{Item|Binoculars}} to look at the sun in the [[Mesa]].
+ | {{Item|Accessory Matrix Glasses|label=Matrix Glasses|link=Matrix Glasses}}
+|-
+ | id="Balloon Badge" | {{Badge|Balloon|link=0|size=64px}}
+ | Balloon Badge
+ | Escape the [[island]] without taking fall damage.
+
+* Granted to any living players who did not take fall damage, even if they were resurrected during the expedition.
+| {{Item|Russell's Outfit Shorts|link=Russell's Outfit|label=Balloon Outfit}}
+|-
+ | id="Beachcomber Badge" | {{Badge|Beachcomber|link=0|size=64px}}
+ | Beachcomber Badge
+ | Climb past the [[SHORE]].
+
+* Granted to all living players when the campfire at the end is lit, even if they were just revived.
+| {{Item|Straw Hat}}
+|-
+ | id="Bing Bong Badge" | {{Badge|Bing Bong|link=0|size=64px}}
+ | Bing Bong Badge
+ | Escape the [[island]] with {{Item|Bing Bong}}.
+
+* All players, alive or dead, earn this Badge when escaping so long as one living player has Bing Bong in their invenroty.
+ | {{Item|Propeller Hat}}
+|-
+ | id="Bookworm Badge" | {{Badge|Bookworm|link=0|size=64px}}
+ | Bookworm Badge
+ | Read all of [[Scoutmaster Myres]]'s journal entries.
+
+* {{Item|Scroll}}s can randomly be found at Campfires. Each subsequent scroll that a player opens will be the next page that the player who opened it requires. If three scrolls have previously been obtained, the journal 4 will be found.
+* Obtained immediately upon opening the final scroll.
+ | {{Item|Accessory Broken Glasses|label=Broken Glasses|link=Broken Glasses}}
+|-
+ | id="Bouldering Badge" | {{Badge|Bouldering|link=0|size=64px}}
+ | Bouldering Badge
+ | Place 10 {{Item|Piton|label=Pitons}}.
+
+* Tracked across multiple expeditions.
+* Granted immediately upon placing your 10th total Piton.
+| {{Item|Eyes Starry|link=Starry Eyes|label=Anime Eyes}}
+|-
+ | id="Bundled Up Badge" | {{Badge|Bundled Up|link=0|size=64px}}
+ | Bundled Up Badge
+ | Climb past the [[ALPINE]] without ever having more than 20% {{Cold}}.
+
+* Granted to all living players who meet the requirements when the campfire at the end is lit, even if they were just revived.
+| {{item|Fit Ice Blue|link=Ice Blue|label=Ice Blue}} <br> {{item|Fit Ice Pink|link=Ice Pink|label=Ice Pink}}
+|-
+ | id="Calcium Intake Badge" | {{Badge|Calcium Intake|link=0|size=64px}}
+ | Calcium Intake Badge
+ | Block 100 total damage with the [[Fortified Milk]].
+
+* "Damage" refers to any affliction besides {{Weight}}.
+
+* Tracked across multiple expeditions.
+* Granted immediately upon blocking the final required damage.
+| {{Item|Accessory ThirdEye|link=Third Eye|label=Third Eye}}
+|-
+ | id="Clutch Badge" | {{Badge|Clutch|link=0|size=64px}}
+ | Clutch Badge
+ | Revive 3 [[scout]]s in a single expedition.
+* A single player revived multiple times counts multiple times for this badge.
+* Granted immediately upon reviving your third scout.
+ | {{Item|Sailor's Hat|link=Sailor's Hat|label=Sailor Hat}}
+|-
+ | id="Competitive Eating Badge" | {{Badge|Competitive Eating|link=0|size=64px}}
+ | Competitive Eating Badge
+ | Eat 3 [[Hot Dog]]s in 5 seconds or less.
+
+* Granted immediately upon eating the final hot dog.
+| {{Item|Hat DrinkHat|link=Drink Hat|label=Drink Hat}}
+|-
+ | id="Cooking Badge" | {{Badge|Cooking|link=0|size=64px}}
+ | Cooking Badge
+ | Cook 20 meals at campfires.
+
+* Tracked across multiple expeditions.
+* Any item cooked at a campfire adds to the progress for this badge, regardless of if it is edible.
+* Granted immediately upon cooking your 20th item.
+| {{Item|Chef's Hat|link=Chef's Hat|label=Chef Hat}}
+|-
+ | id="Cool Cucumber Badge" | {{Badge|Cool Cucumber|link=0|size=64px}}
+ | Cool Cucumber Badge
+ | Climb past the [[MESA]] without ever having more than 10% {{Heat}}.
+
+* Granted to all living players who meet the requirements when the campfire at the end is lit, even if they were just revived.
+| {{Item|Gallon Hat}}
+{{Item|Cowboy Outfit}}
+ |-
+ | id="Cryptogastronomy Badge" | {{Badge|Cryptogastronomy|link=0|size=64px}}
+ | Cryptogastronomy Badge
+ | Cook and eat a [[Mandrake]].
+
+* Immediately granted to a player who eats or is fed a cooked mandrake.
+| {{Item|Hat Sprout|link=Sprout Hat|label=Sprout Hat}}
+|-
+ | id="Daredevil Badge" | {{Badge|Daredevil|link=0|size=64px}}
+ | Daredevil Badge
+ | Shoot across the [[MESA]] canyon in a {{Item|Scout Cannon}}.
+
+* Immediately granted to a player who lands within the target zone after being launched from the cannon.
+| {{Item|Racing Helmet}}
+|-
+ | id="Disaster Response Badge" | {{Badge|Disaster Response|link=0|size=64px}}
+ | Disaster Response Badge
+ | Pull an unconscious friend 30m with the [[Rescue Claw]].
+
+* Immediately granted to the player using the item.
+| {{Item|Hat ClimbingHelmet|link=Climbing Helmet|label=Climbing Helmet}}
+{{Item|Fit Climber|link=Climber Outfit|label=Climber Outfit}}
+|-
+ | id="Emergency Preparedness Badge" | {{Badge|Emergency Preparedness|link=0|size=64px}}
+ | Emergency Preparedness Badge
+ | Heal an unconscious friend with an item to save them from death.
+
+* Immediately granted upon using an item that reduces an unconscious player's total afflictions below 100.
+* Only applies to direct item applications. Items like the {{Item|Faerie Lantern}} or {{Item|Remedy Fungus}} will not grant this badge.
+| {{Item|Sailor's Outfit Shorts|link=Sailor's Outfit|label=Sailor Outfit}}
+|-
+ | id="Endurance Badge" | {{Badge|Endurance|link=0|size=64px}}
+ | Endurance Badge
+ | Climb 50m upwards without touching the ground.
+
+* Granted immediately upon reaching the 50m mark.
+* The player must climb the full length, grabbing onto a {{Item|Piton}} or other climbing tool qualifies as touching the ground.
+| {{Item|Ninja Headband}}
+|-
+ | id="Esoterica Badge" | {{Badge|Esoterica|link=0|size=64px}}
+ | Esoterica Badge
+ | Obtain a [[mystical item]].
+
+* Granted immediately upon picking up the item.
+| {{Item|Wizard Hat}}
+|-
+ | id="First Aid Badge" | {{Badge|First Aid|link=0|size=64px}}
+ | First Aid Badge
+ | Heal your friends for 100 points of {{Injury}} in a single expedition.
+
+* Granted to the healing player.
+* Only counts direct item applications. Usage of items like the {{Item|Faerie Lantern}} or {{Item|Remedy Fungus}} will not count towards this badge.
+| {{Item|Medic Helmet|link=Medic Helmet|label=Medic Hat}}
+|-
+ | id="Foraging Badge" | {{Badge|Foraging|link=0|size=64px}}
+ | Foraging Badge
+ | Eat 5 different berries in one expedition.
+* Counts unique items, i.e. a {{Item|Green Crispberry}} is considered a different berry from a {{Item|Red Crispberry}}.
+* {{Item|Red Shroomberry|label=Shroomberries}} count towards this badge.
+* Feeding a berry to another scout counts towards your own badge progress, rather than theirs.
+* Granted immediately upon eating the final berry.
+ | {{Item|Mouth Tongue|link=Tongue Mouth|label=Wacky Mouth}}
+|-
+ | id="Forestry Badge" | {{Badge|Forestry|link=0|size=64px}}
+ | Forestry Badge
+ | Climb past the [[ROOTS]].
+
+* Granted to all living players when the campfire at the end is lit, even if they were just revived.
+| {{Item|Hat Gnome|link=Gnome Hat|label=Gnome Hat}}
+{{Item|Fit Gnome|link=Gnome Outfit|label=Gnome Outfit}}
+|-
+ | id="Gourmand Badge" | {{Badge|Gourmand|link=0|size=64px}}
+ | Gourmand Badge
+ | Escape the [[island]] after cooking and eating a {{Item|Half-Coconut}}, {{Item|Honeycomb}}, {{Item|Yellow Winterberry}}, and an {{Item|Egg}}.
+
+* Feeding another player one of the required items adds towards your own progress rather than the fed player's.
+* The item must have been cooked at least once by any means. Well-Done, Burnt, and Incinerated items also count towards the badge.
+* Granted upon escaping the island alive after meeting the requirements.
+| {{Item|Mouth Aggro|label=Aggro Mouth|link=Aggro Mouth}} <br> {{Item|Eyes Monster|link=Monster Eyes|label=Aggro Eyes}}
+|-
+ | id="Happy Camper Badge" | {{Badge|Happy Camper|link=0|size=64px}}
+ | Happy Camper Badge
+ | Receive 5 [[Morale Boost|Morale Boosts]] from [[Campfire|campfires]].
+
+* Granted immediately upon receiving the final Morale Boost.
+* Granted to any living player in range.
+| {{Item|School Uniform Shorts|link=School Uniform|label=Cookie Outfit}}
+|-
+ | id="Hasty Badge" | {{Badge|Hasty|link=0|size=64px}}
+ | Hasty Badge
+ | Escape the [[island]] in under an hour.
+* Escaping in an hour ''exactly'' also counts.
+* Granted to all living players at the end of a qualifying expedition.
+ | {{Item|Messenger Cap|link=Messenger Cap|label=Courier Hat}}
+|-
+ | id="High Altitude Badge" | {{Badge|High Altitude|link=0|size=64px}}
+ | High Altitude Badge
+ | Climb 5000m in total.
+
+* A single expedition is {{formatnum:1920}}m.
+* Progress is counted in 5m increments.
+* No progress is given before reaching 25m.
+* Granted immediately upon reaching the required height.
+ | {{Item|Headband|link=Headband|label=Bandana}}
+|-
+ | id="Knot Tying Badge" | {{Badge|Knot Tying|link=0|size=64px}}
+ | Knot Tying Badge
+ | Place 100m of [[rope]] in a single expedition.
+
+* This includes {{Item|Rope Spool}}, {{Item|Anti-Rope Spool}}, {{Item|Rope Cannon}}, and {{Item|Anti-Rope Cannon}}.
+* Both rope spools have 12.5m of rope. Both rope cannons have 7.5m of rope.
+* Granted immediately upon placing the final required rope.
+| {{Item|Accessory Ribbon Bow|link=Ribbon Bow|label=Bow}}
+|-
+ | id="Leave No Trace Badge" | {{Badge|Leave No Trace|link=0|size=64px}}
+ | Leave No Trace Badge
+ | Escape the island without placing anything on the mountain.
+* Avoid using any item that requires being placed or mounted to a surface, including {{Item|Rope Spool}} and {{Item|Rope Cannon}} and their [[Anti-Rope]] variants), {{Item|Piton}}, {{Item|Portable Stove}}, {{Item|Scout Cannon}}, and {{Item|Scout Effigy}}.
+* Thrown items such as the  {{Item|Shelf Fungus}} and {{Item|Magic Bean}} are safe for this achievement.
+* Granted to all living players upon escaping the island if none of the prohibited items were used.
+ | {{Item|Accessory Incognito Face|link=Incognito Face|label=Groucho}}
+|-
+ | id="Lone Wolf Badge" | {{Badge|Lone Wolf|link=0|size=64px}}
+ | Lone Wolf Badge
+ | Escape the [[island]] in a solo expedition.
+ | {{Item|Wolf Ears}}
+|-
+ | id="Megaentomology Badge" | {{Badge|Megaentomology|link=0|size=64px}}
+ | Megaentomology Badge
+ | Survive an [[Antlion]] attack.
+* Requires taking damage from an Antlion and then escaping alive by walking some distance away from the antlion mound.
+ | {{Item|Accessory Scar2|link=Scar 2|label=Scar 2}}
+|-
+ | id="Mentorship Badge" | {{Badge|Mentorship|link=0|size=64px}}
+ | Mentorship Badge
+ | Have a 1-on-1 with the [[Scoutmaster Myres|Scoutmaster]].
+
+* Granted immediately upon being within a certain range of the scoutmaster while holding their aggro.
+| {{Item|Eyes Inverted|label=Inverted Eyes|link=Inverted Eyes}}
+|-
+ | id="Mycoacrobatics Badge" | {{Badge|Mycoacrobatics|link=0|size=64px}}
+ | Mycoacrobatics Badge
+ | Bounce up 40m off a [[Bounce Fungus|mushroom]].
+
+* Works with any mushroom you can bounce off.
+
+* Granted immediately upon bouncing the required height.
+
+* Climbing 40m up a vine or chain after bouncing off a mushroom will also work.
+| {{Item|Hat Fairy|link=Fairy Hat|label=Fairy Hat}}
+{{Item|Fit Fairy|link=Fairy Outfit|label=Fairy Outfit}}
+|-
+ | id="Mycology Badge" | {{Badge|Mycology|link=0|size=64px}}
+ | Mycology Badge
+ | Eat four different non-toxic [[Food#Mushrooms|mushrooms]] in a single expedition.
+
+* Feeding another player counts towards your own count instead of theirs.
+* {{Item|Red Shroomberry|label=Shroomberries}} do not count towards this badge.
+* Granted immediately upon eating the final [[Mushroom]].
+| {{Item|Mushroom Cap|link=Mushroom Cap|label=Mushroom Hat}}
+|-
+ | id="Naturalist Badge" | {{Badge|Naturalist|link=0|size=64px}}
+ | Naturalist Badge
+ | Escape the [[island]] without eating any [[packaged food]].
+* Any [[natural food]] is safe for this badge, including {{Item|Cure-All}}, {{Item|Pandora's Lunchbox}}, {{Item|Marshmallow}}s, and {{Item|Hot Dog}}.
+* Feeding another player counts towards your own badge progress, rather than theirs.
+* Granted to any living players who meet the requirements after escaping the island.
+ | {{Item|Flower Garland|link=Flower Garland|label=Midsummer Hat}}
+|-
+ | id="Needlepoint Badge" | {{Badge|Needlepoint|link=0|size=64px}}
+ | Needlepoint Badge
+ | Have a lot of [[Cactus|Cactuses]] stuck to you.
+
+* Requires sticking five {{Item|Cactus|label=Cacti}} to the player, which will cause loss of consciousness. The cacti can either be picked off at the last moment solo or with the help of other players.
+* A cactus held in hand does not count towards this badge.
+ | {{Item|Sun Hat}}
+|-
+ | id="Nomad Badge" | {{Badge|Nomad|link=0|size=64px}}
+ | Nomad Badge
+ | Climb past the [[MESA]].
+
+* Granted to all living players who meet the requirements when the campfire at the end is lit, even if they were just revived.
+| {{Item|Desert Hat}}
+|-
+ | id="Participation Badge" | {{Badge|Participation|link=0|size=64px}}
+ | Participation Badge
+ | Have a friend escape the [[island]] without you.
+
+* Granted to all dead players upon escaping the island.
+| {{Item|Castaway Outfit Shorts|link=Castaway Outfit|label=Castaway Outfit}}
+|-
+ | id="Peak Badge" | {{Badge|Peak|link=0|size=64px}}
+ | Peak Badge
+ | Reach [[Peak (biome)|The Peak]].
+
+* Granted to all living players upon escaping the island.
+| {{Item|Stetson Hat|link=Stetson Hat|label=Scoutmaster Hat}}
+|-
+ | id="Plunderer Badge" | {{Badge|Plunderer|link=0|size=64px}}
+ | Plunderer Badge
+ | Open 15 [[Luggage]]s in a single expedition.
+
+* Granted to a player immediately after opening their 15th luggage.
+| {{Item|Accessory Eyepatch|label=Eyepatch|link=Eyepatch}}
+|-
+ | id="Resourcefulness Badge" | {{Badge|Resourcefulness|link=0|size=64px}}
+ | Resourcefulness Badge
+ | Give in to your hunger.
+
+* Requires [[cannibalism]] or eating a {{item|Cooked Bird}} with cannibalism disabled.
+ | {{Item|Mouth Labu|label=Labu Mouth|link=Labu Mouth}}
+|-
+ | id="Survivalist Badge" | {{Badge|Survivalist|link=0|size=64px}}
+ | Survivalist Badge
+ | Escape the [[island]] without ever losing consciousness.
+
+* Losing consciousness for any reason disqualifies you for this badge, not just dying.
+* Granted to each living player who meets the requirement upon escaping the island.
+| {{Item|Scoutmaster Outfit Shorts|link=Scoutmaster Outfit|label=Scoutmaster Outfit}}
+|-
+ | id="Tread Lightly Badge" | {{Badge|Tread Lightly|link=0|size=64px}}
+ | Tread Lightly Badge
+ | Climb past the [[ROOTS]] without ever having more than 25% spores.
+
+* Granted to all living players who meet the requirements when the campfire at the end is lit, even if they were just revived.
+| {{Item|Hat PlagueDoctor|link=Plague Doctor Hat|label=Plague Doctor Hat}}
+{{Item|Fit PlagueDoctor|link=Plague Doctor Outfit|label=Plague Doctor Outfit}}
+|-
+ | id="Toxicology Badge" | {{Badge|Toxicology|link=0|size=64px}}
+ | Toxicology Badge
+ | Restore 200 total {{poison}} by using items.
+
+* Can be completed during the course of multiple expeditions.
+* Healing another player counts to your own badge progress, not theirs.
+* Granted immediately upon reaching the required total.
+ | {{Item|Mouth Vampire|link=Vampire Fangs|label=Vamp}}
+|-
+ | id="Trailblazer Badge" | {{Badge|Trailblazer|link=0|size=64px}}
+ | Trailblazer Badge
+ | Climb past the [[TROPICS]].
+
+* Granted to all living players when the campfire at the end is lit, even if they were just revived.
+| {{Item|Pith Helmet|label=Fedora|link=Fedora}}
+|-
+ | id="Ultimate Badge" | {{Badge|Ultimate|link=0|size=64px}}
+ | Ultimate Badge
+ | Catch a {{Item|Flying Disc}} from 100m away.
+
+* Granted upon picking up a qualifying disc.
+* A disc that lands in water is not considered to have touched the ground, allowing the badge to be obtained in a solo expedition.
+| {{Item|Visor}}
+|-
+ | id="Undead Encounter Badge" | {{Badge|Undead Encounter|link=0|size=64px}}
+ | Undead Encounter Badge
+ | Cure yourself from a [[zombie]] bite.
+
+* Granted to a player who is bitten by a zombie after they have {{Spores|0}}.
+* Cannot be earned on [[Ascents|Tenderfoot]] because zombies don't spawn at this difficulty level.
+| {{Item|Hat Pumpkin|link=Pumpkin Hat|label=Pumpkin Hat}}
+|-
+ | id="Volcanology Badge" | {{Badge|Volcanology|link=0|size=64px}}
+ | Volcanology Badge
+ | Climb past the [[CALDERA]].
+
+* Granted to all living players who meet the requirements when the campfire at the end is lit, even if they were just revived.
+| {{Item|Tropical Outfit Shorts|link=Tropical Outfit|label=Tropical Outfit}}
+|-
+ | id="Web Security Badge" | {{Badge|Web Security|link=0|size=64px}}
+ | Web Security Badge
+ | Escape a [[spider]]'s web and survive.
+
+* Granted to the player immediately upon escaping the web.
+| {{Item|Hat Mummy|link=Mummy Hat|label=Mummy Hat}}
+{{Item|Fit Mummy|link=Mummy Outfit|label=Mummy Outfit}}
+|-
+|}
+
+== Original badges ==
+'''Original badges''' consist of all the badges introduced before the [[Mesa]] update ([[1.20.a]]). Obtaining all the original badges unlocks the {{Item|Hat Crown|link=Crown|label=Crown}}. The original badges take up the first two rows on the Accolades screen, from {{Badge|Participation}} to {{Badge|Endurance}}, inclusive.
+
+{{Collapsible block
+| title = List of the original badges
+| content =
+  {{Hlist
+  | class = inline
+  | {{Badge|Participation}}
+  | {{Badge|Beachcomber}}
+  | {{Badge|Trailblazer}}
+  | {{Badge|Alpinist}}
+  | {{Badge|Volcanology}}
+  | {{Badge|Peak}}
+  | {{Badge|Cooking}}
+  | {{Badge|Happy Camper}}
+  | {{Badge|Bouldering}}
+  | {{Badge|Toxicology}}
+  | {{Badge|Foraging}}
+  | {{Badge|Esoterica}}
+  | {{Badge|Lone Wolf}}
+  | {{Badge|Clutch}}
+  | {{Badge|Balloon}}
+  | {{Badge|Leave No Trace}}
+  | {{Badge|Hasty}}
+  | {{Badge|Bing Bong}}
+  | {{Badge|Naturalist}}
+  | {{Badge|Gourmand}}
+  | {{Badge|Mycology}}
+  | {{Badge|First Aid}}
+  | {{Badge|Survivalist}}
+  | {{Badge|Animal Serenading}}
+  | {{Badge|Arborist}}
+  | {{Badge|Mentorship}}
+  | {{Badge|Knot Tying}}
+  | {{Badge|Emergency Preparedness}}
+  | {{Badge|High Altitude}}
+  | {{Badge|Plunderer}}
+  | {{Badge|Bookworm}}
+  | {{Badge|Endurance}}
+  }}
+}}
+
+== Patch history ==
+{{patch|1.0|
+* Introduced. }}
+{{patch|1.20.a|
+* Added 10 new badges to collect!
+** 24 Karat Badge, Aeronautics Badge, Astronomy Badge, Cool Cucumber Badge, Daredevil Badge, Megaentomology Badge, Needlepoint Badge, Nomad Badge, Resourcefulness Badge, Ultimate Badge. }}
+{{patch|1.30.a|
+* Added Bundled Up Badge. }}
+{{patch|1.40.a|
+* Added 11 new badges to earn, each with associated cosmetics to unlock as rewards! }}
+
+[[Category:PEAK]]

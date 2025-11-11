@@ -1,0 +1,81 @@
+{{Distinguish|Peak (biome)}}
+{{DISPLAYTITLE:''PEAK'' (game)}}
+{{infobox game
+| title = PEAK
+| image = PEAK_KeyArt_1080p.jpg
+| developer = [[Team PEAK]]
+| publisher = [[wikipedia:Aggro Crab|Aggro Crab]], [[wikipedia:Landfall Games|Landfall]]
+| composer = Erik Skog<ref>[https://bsky.app/profile/landfall.se/post/3lwhb7rkfz222 Landfall Games on Bluesky] ([[:File:Landfall BSky Response.png|screenshot]])</ref>
+| engine = [[wikipedia:Unity_(game_engine)|Unity]]
+| platform = [[wikipedia:Steam (service)|Steam]] (Windows, SteamOS)
+| genre = Multiplayer Co-op
+| modes = [[wikipedia:Single-player video game|Single-player]], [[wikipedia:Multiplayer video game|Multiplayer]]
+| steam-release = June 16, 2025
+}}
+
+'''Peak''' (stylized as '''PEAK''') is a co-operative climbing game developed and published by Aggro Crab and Landfall, released on June 16, 2025 on [https://store.steampowered.com/app/3527290/PEAK/ Steam].
+
+== Overview ==
+PEAK's gameplay revolves around lone [[Scouts]], or Scout troops of up to 4 members, waking up after a plane belonging to [[BingBong Airlines]] [[Crash Site|crashes]] on the [[Shore]] of the [[Island]]. Their goal is to make it to the [[Peak (biome)|Peak]], the highest point on the Island, where a rescue [[helicopter]] can be summoned using a {{Item|Flare}}. The game has a number of difficulty levels called ''[[Ascents]]'' which progressively add stacking downsides and make the climb harder for everyone.
+
+The terrain, [[biomes]] (separated by [[campfires]]) and land-based hazards of the Island are [[Island|randomized]] each day at [https://dateful.com/convert/utc?t=17 17:00 UTC], while naturally spawning [[food]] and the contents of scattered [[luggage]] are [[Rarity|randomized]] each expedition. There are also environmental hazards that can be found in every biome, such as [[Shore]]'s [[giant urchin]]s, [[Tropics]]' [[Tropics#Rain|rain]], [[Alpine]]'s [[blizzards]], [[Mesa]]'s hot [[sun]], and [[Caldera]]'s [[Caldera#Lava|lava]]. If playing on the [[Ascents#Peak|Peak]] [[Ascent]] or higher, the [[Fog]] is also present and will slowly encroach on the Scout troop if they take too long to ascend.
+
+Playing PEAK is very much a trial-and-error affair, with the game itself leaving a lot for players to discover on their own. Some of the most important things learnt by the players include what [[foods]] are poisonous, when to take and how to use the various pieces of [[equipment]] found in [[luggage]], and how to most effectively manage their [[stamina]].
+
+PEAK's seemingly simple but deeply complex gameplay and aesthetics have allowed it to achieve a rating of ''Very Positive'' on [[wikipedia:Steam (service)|Steam]] and have spawned an underground meme culture that has gone on to be recognized by the game's developers, culminating in a reference to ''[https://www.youtube.com/watch?v=ZvkYRdqlY3s Johnathan Frisbee]'' being added to the [[:File:Frisbee texture.png|texture]] of the {{Item|Flying Disc}}.
+
+== Steam Description ==
+<small>''(Revision as of 2025-08-21)''</small>
+
+PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the [[Peak (biome)|PEAK]]?
+
+'''WORK TOGETHER'''
+
+Need a Hand? You’ll need to rely on your friends to have any hope of scaling the mountain, which [[Island|changes]] every single day. Help each other up ledges, or place {{Item|Rope Spool|label=ropes}} and {{Item|Piton|label=climbing spikes}}<ref>The description refers to "climbing spikes", which is the old name for the {{Item|Piton}}.</ref> to make the way easier for those who come after.
+
+'''CLIMB'''
+
+The Mountain Takes no Prisoners! Climb through 4 [[biomes]] on your way to the [[Peak (biome)|PEAK]], each with their own life-threatening obstacles. You’ll need to scavenge for questionable [[food]] to survive, and manage your {{Injury|label=injuries}} carefully - every setback limits your [[stamina]], making it harder to climb.
+
+'''SURVIVE'''
+
+Prepare For the Worst: Discover a variety of helpful survival [[items]], from {{Item|Energy Drink|label=Energy drinks}} to {{Item|Piton|label=climbing spikes}} to the mysterious {{Item|Anti-Rope}}. You’ve got no hope of making it to the [[Peak (biome)|PEAK]] unless you press every advantage given to you.
+
+'''A NEW ISLAND EACH DAY'''
+
+The game's [[Island|map]] rotates out every 24 hours! Try out the new layout each day, or give the same island multiple attempts in a day until you conquer it.
+
+'''EARN BADGES'''
+
+A Well-Seasoned Scout: Show off your survival prowess with dozens of [[badges]] to earn and [[cosmetics]] to unlock.
+
+'''CLIMBING IS BETTER WITH FRIENDS'''
+
+Multiplayer in PEAK is friends-only - invite up to three other scouts through Steam to climb together, or face the mountain alone if you're really brave!
+
+'''FEATURES'''
+
+* Climb with a total of 4 friends
+* Communicate through proximity chat 
+* 4 different [[biomes]] to ascend through<ref>Outdated as of [[1.20.a]] with the addition of the [[Mesa]].</ref>
+* A bunch of questionable [[Food|foods]]
+* Lots of different climbing [[items]]
+* [[Campfires]] and {{Item|Marshmallow}}
+* Character [[customization]]
+* Online co-op and offline single player
+* [[Ghost|Ghosts]]
+
+== Trivia ==
+* The font primarily used in Peak and its menus is called [https://fonts.google.com/specimen/Darumadrop+One Darumadrop One]. This includes the game's logo itself (excluding the capital A used in the logo, which seems to be custom). This font is also used on the packaging of the {{Item|Scout Cookies}}, as well as the key prompts.
+
+== See also ==
+* [[Credits]]
+* [[Soundtrack]]
+* [[Steam Community Items]]
+<!-- * [[Unused Content]] -- Commenting this out for now. People who need to see it will use the search anyway. -->
+
+== External links ==
+*[https://store.steampowered.com/app/3527290/PEAK/ PEAK on Steam]
+
+== Notes ==
+<references />

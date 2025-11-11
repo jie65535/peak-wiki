@@ -1,0 +1,112 @@
+'''Locations''' in {{peak game}} are the areas players will find themselves in either before or during their climbing sessions. The most common locations are the biomes that dictate the conditions of each climb, the hazards the players encounter, and the types of items they can find.
+
+The current map [[Island#Daily Map|changes]] every 24 hours at [https://dateful.com/convert/utc?t=17 17:00 UTC].
+
+== Lobby ==
+{| class="wikitable"
+ ! Region
+ ! Preview
+ ! Name
+ ! Description
+|-
+ | style="text-align:center" | —
+ | [[File:Airport.png|frameless|320px|Airport|link=Airport]]
+ | [[Airport]]
+ | 
+* The lobby area from which you invite your friends before beginning your climbing session.
+* Use your [[Passport]] here to customize the look of your Scout.
+* Partake in fun activities while you wait to start the game, such as using the photobooth or playing chess.
+|-
+|}
+
+== Biomes ==
+{| class="wikitable"
+ ! Region
+ ! Preview
+ ! Name
+ ! Description
+|-
+ | style="text-align:center" | 1
+ | id="Shore" | [[File:Shore.png|frameless|320px|Shore|link=Shore]]
+ | [[Shore]]
+ |
+* Climb rocky cliffs.
+* Find [[Coconut]]s on palm trees and [[Crispberries]] on bushes.
+* Avoid {{Poison|label=poisonous}} hazards, such as the [[Shore#Hazards|jellyfish]] and [[Shore#Hazards|giant sea urchins]].
+* Traverse wooden [[bridge]]s that can break under the pressure of too many scouts.
+|-
+ | rowspan="2" style="text-align:center" | 2
+ | id="Tropics" | [[File:Tropics.png|frameless|320px|Tropics|link=Tropics]]
+ | [[Tropics]]
+ |
+* Climb trees, roots and vines.
+* Find various natural food, including [[Kingberries]], [[Scorchberries]], and [[Berrynana]]s.
+* Steal [[Honeycomb]]s from bees in [[Beehive]]s (but avoid getting stung by them!)
+* Avoid {{Poison|label=poisonous}} spikes on large roots, bombshrooms, and {{Item|Tick|label=ticks}}.
+|-
+ | id=Roots" | [[File:RootsLarge.jpg|frameless|320px|Roots|link=Roots]]
+ | [[Roots]]
+ |
+* Scale tall trees and giant mushrooms in a swamp.
+* Forage all kinds of fungi, whether edible or usable as tools in the climb.
+* Avoid spores, various hostile bugs and fungal [[zombies]].
+|-
+ | style="text-align:center" rowspan="2" | 3
+ | id="Alpine" | [[File:Alpine.png|frameless|320px|Alpine|link=Alpine]]
+ | [[Alpine]]
+ |
+* Navigate freezing winds and icy caves.
+* Find different [[Winterberries]].
+* Take cover from {{Cold|label=freezing}} blizzards and [[Ice Rocks]].
+* Avoid erupting [[geyser]]s that can {{Heat|label=burn}} you and send you flying.
+|-
+ | [[File:Mesa.png|frameless|320px|Mesa|link=Mesa]]
+ | id="Mesa" | [[Mesa]]
+ | 
+* Traverse sandy terrain under a blistering sun.
+* Take cover from the {{Heat|label=blistering}} sun.
+* Stay away from {{Thorns|label=thorny}} [[Cacti]] and rolling [[Tumbleweed|Tumbleweeds]].
+* Avoid other hazards, such as {{Poison|label=venomous}} [[Scorpion|Scorpions]], {{Injury|label=explosive}} [[Dynamite]], and [[Mesa#Hazards|others]].
+|-
+ | style="text-align:center" | 4
+ | id="Caldera" | [[File:Caldera.png|frameless|320px|Caldera|link=Caldera]]
+ | [[Caldera]]
+ | 
+* Jump across burning rocks.
+* Wait for the lava to rise and fall before making your jump.
+* Find [[Big Egg|Big Eggs]] in nests.
+* Avoid standing on [[Caldera#Hazards|burning rocks]].
+|-
+ | style="text-align:center" | 5
+ | id="The Kiln" | [[File:Kiln.png|frameless|320px|The Kiln|link=The Kiln]]
+ | [[The Kiln]]
+|
+* Navigate carefully up a narrow vertical climb.
+* Use your equipment to make climbing to the [[Peak (biome)|Peak]] easier.
+* Avoid [[Kiln#Hot Rocks|Hot Rocks]] and rising lava.
+|-
+ | style="text-align:center" | 6
+ | id="Peak (biome)" | [[File:Peak.png|frameless|320px|Peak|link=Peak (biome)]]
+ | [[Peak_(biome)|Peak]]
+ | 
+* You have successfully reached the [[Peak_(biome)|Peak]]! Congrats!
+* A box of {{item|Flare|label=flares}} can be found here for calling for help, as long as you are not playing on [[Ascents|Ascent 4]] or higher.
+|-
+|}
+
+== Patch history ==
+{{patch|1.0|
+* Introduced. }}
+{{patch|1.6.a|
+* Removed a weird thin green line in the airport }}
+{{patch|1.8|
+* We've improved performance in the Caldera and Kiln. To folks noting the abnormally low framerate in these areas, please let us know if it's still happening. (We don't have access to a big variety of computer specs!) 
+* Fixed an issue where you could not reconnect properly from the top of the Alpine onwards.}}
+{{patch|1.20.a|
+* Added a new biome that replaces the Alpine: the MESA. The MESA will be present in every run for the next week - after which future maps will rotate randomly between the Mesa and Alpine.
+* There may be a surprise waiting for you in The Kiln…
+* The fog rises slightly slower in the Tropics.
+* Improved performance across the board on the mountain. }}
+{{patch|1.40.a|
+* Added a new biome: the ROOTS.
+** Delve into the ROOTS: a shrouded redwood forest infested by mushrooms and creepy-crawlies alike. This Biome replaces the TROPICS, and will be present in every run until November 17 - after which, future maps will rotate randomly between TROPICS and ROOTS. }}
