@@ -80,7 +80,7 @@ docs/
 - Peak - 山峰
 - Shore - 海岸
 - Flare - 信号弹
-- Ascent - 攀登（难度）
+- Ascent - 天阶（难度）
 - Biome - 生物群系
 - Campfire - 篝火
 - BingBong Airlines - BingBong航空公司

@@ -248,7 +248,7 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 
 蘑菇需要在营火处烹饪才能食用，生吃会中毒。单次探险食用四种无毒蘑菇可获得成就。
 
-**重要提示**：蘑菇类食物有**无毒版本**和**有毒版本**两种变体。具体识别方法和详细说明请参考 [Food.wiki](../data/Food.wiki)。
+**重要提示**：蘑菇类食物有**无毒版本**和**有毒版本**两种变体。
 
 #### ![icon](../images/items/x64/Mushroom%20Chubby.png) 梨鲍菇 (Chubby Shroom)
 - **效果**：可食用
@@ -260,12 +260,27 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 - **重量**：2.5
 - **位置**：森蕈、雪山
 
+#### ![icon](../images/items/x64/Mushroom%20Lace.png) 喇叭菇 (Bugle Shroom)
+- **效果**：待补充
+- **重量**：2.5
+- **位置**：待补充
+
 #### ![icon](../images/items/x64/Mushroom%20Lace%20Poison.png) 喇叭菇 (Bugle Shroom)
 - **效果**：待补充
 - **重量**：2.5
 - **位置**：待补充
 
+#### ![icon](../images/items/x64/Mushroom%20Normie.png) 馒头菇 (Button Shroom)
+- **效果**：待补充
+- **重量**：2.5
+- **位置**：待补充
+
 #### ![icon](../images/items/x64/Mushroom%20Normie%20Poison.png) 馒头菇 (Button Shroom)
+- **效果**：待补充
+- **重量**：2.5
+- **位置**：待补充
+
+#### ![icon](../images/items/x64/Mushroom%20Cluster.png) 银针菇 (Cluster Shroom)
 - **效果**：待补充
 - **重量**：2.5
 - **位置**：待补充
@@ -281,7 +296,7 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 
 包装食品可在行李箱中找到。
 
-### ![icon](../images/items/x64/Airline%20Food.png) 飞机餐 (Airline Food)
+### ![icon](../images/items/x64/Airplane%20Food.png) 飞机餐 (Airline Food)
 - **饥饿恢复**：-40
 - **额外体力**：+40
 - **重量**：5
@@ -314,7 +329,7 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 - **特点**：可在营火处烤制
 - **获取**：营火附近
 
-### ![icon](../images/items/x64/Hot%20Dog.png) 热狗肠 (Hot Dog)
+### ![icon](../images/items/x64/Glizzy.png) 热狗肠 (Hot Dog)
 - **饥饿恢复**：-10（烹饪后：-20）
 - **额外体力**：无（烹饪后：+10）
 - **重量**：2.5
@@ -328,11 +343,10 @@ PEAK游戏中的完整食物系统指南。食物可以消耗以降低饥饿值�
 - **可烹饪**：是
 - **成就相关**：美食家奖章
 
-### 熟鸟肉 (Cooked Bird)
-- **饥饿恢复**：-10
-- **额外体力**：+10
-- **重量**：2.5
-- **获取**：待补充
+### ![icon](../images/items/x64/EggTurkey.png) “鸟” (Bird)
+- **饥饿恢复**：-20
+- **重量**：10
+- **获取**：砸好大蛋有概率获得
 
 ## 神秘食物
 
